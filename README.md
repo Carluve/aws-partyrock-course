@@ -18,6 +18,18 @@ The repository is organized into modules, each covering different concepts and p
 - [07 - Hackathon Guide](./EN/07-Hackathon/README.md)
 - [08 - Additional Resources](./EN/08-Resources/README.md)
 
+
+## 🧭 Módulos en Español
+
+- [01 - Introducción](./ES/01-Introduccion/README.md)
+- [02 - Construyendo Tu Primera Aplicación](./ES/02-PrimeraAplicacion/README.md)
+- [03 - Entendiendo la IA Generativa](./ES/03-IAGenerativa/README.md)
+- [04 - Aplicaciones de Ejemplo](./ES/04-AplicacionesEjemplo/README.md)
+- [05 - Prompt](./ES/05-Prompt/README.md)
+- [06 - Mejores Prácticas](./ES/06-MejoresPracticas/README.md)
+- [07 - Guía de Hackathon](./ES/07-Hackathon/README.md)
+- [08 - Recursos Adicionales](./ES/08-Recursos/README.md)
+
 ---
 
 ## 📅 Last updated: April 2025
