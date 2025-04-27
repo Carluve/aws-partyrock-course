@@ -116,12 +116,12 @@ Snapshots are invaluable for version control:
 ## 2 · Widgets – The Building Blocks
 
 Open the editor and notice the **widget palette**:
+![File widget](./images/13_widget_file.png) 
 
-![Widget palette](./images/12-createapp-widgets.png)
 
 | Category | Typical widgets | Example screenshot |
 |----------|-----------------|--------------------|
-| **Inputs** | Text · Select · Slider · Files | ![File widget](./images/13_widget_file.png) |
+| **Inputs** | Text · Select · Slider · Files |![Widget palette](./images/12-createapp-widgets.png) |
 | **AI-powered** | Generated Text · Generated Image · Chat Box | ![Generated Text widget](./images/14-widget-iageneration.png) |
 | **Other** | Static Text for headings/instructions | — |
 
@@ -146,7 +146,7 @@ Switch to the **Model** tab to pick a model hosted by Amazon Bedrock.
 |------------------|--------|------------|-----------------------|
 | **Amazon Nova (Micro • Lite • Pro)** | AWS | Fast inference, Pro gives deeper reasoning | General chat, summarisation |
 | **Claude 3.5 (Haiku • Sonnet v2)** | Anthropic | Long-context, high factuality | Research assistants, legal review |
-| **Jamba 1.5 (Mini • Large)** | AWS × Mistral | Efficient multilingual output | Localisation, customer replies |
+| **Jamba 1.5 (Mini • Large)** | AI21 Labs | Efficient multilingual output | Localisation, customer replies |
 | **Command R / R+** | Cohere | Structured, RAG-friendly | Data extraction, FAQs |
 | **Llama 3.1 (8 B • 70 B)** | Meta | Open-weights, creative text | Brainstorming, marketing copy |
 | **Mistral 2 (Small • Large)** | Mistral AI | Crisp, maths-aware | Coding help, logical tasks |
