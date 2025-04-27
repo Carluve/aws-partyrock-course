@@ -18,7 +18,6 @@ The repository is organized into modules, each covering different concepts and p
 - [07 - Hackathon Guide](./EN/07-Hackathon/README.md)
 - [08 - Additional Resources](./EN/08-Resources/README.md)
 
-
 ## 🧭 Módulos en Español
 
 - [01 - Introducción](./ES/01-Introduccion/README.md)

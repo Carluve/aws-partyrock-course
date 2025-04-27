@@ -1,240 +1,240 @@
-# 01 - Introduction
+# 01 - Introducción
 
-Welcome to the **AWS PartyRock** course!
+¡Bienvenido al curso de **AWS PartyRock**!
 
-In this course, you will learn how to build **generative AI applications** without writing a single line of code, using AWS PartyRock and the power of foundation models on Amazon Bedrock.
-
----
-
-## 🚀 What is PartyRock?
-
-**PartyRock** is a no-code platform developed by AWS that allows users to create and customize generative AI applications quickly and easily.  
-It leverages foundation models (FMs) through **Amazon Bedrock** to generate texts, images, and other media based on user prompts.
-
-PartyRock is ideal for:
-- Rapid prototyping
-- Learning about AI
-- Building demos
-- Hackathons and innovation events
+En este curso, aprenderás a crear **aplicaciones de IA generativa** sin escribir una sola línea de código, utilizando AWS PartyRock y el poder de los modelos fundacionales en Amazon Bedrock.
 
 ---
 
-## 📚 What Will You Learn?
+## 🚀 ¿Qué es PartyRock?
 
-Throughout this course, you will:
+**PartyRock** es una plataforma sin código desarrollada por AWS que permite a los usuarios crear y personalizar aplicaciones de IA generativa de forma rápida y sencilla.  
+Aprovecha los modelos fundacionales (FMs) a través de **Amazon Bedrock** para generar textos, imágenes y otros medios basados en prompts del usuario.
 
-- Understand the basic concepts of **Generative AI**.
-- Explore the capabilities of **PartyRock**.
-- Build your **first AI application**.
-- Learn how to **deploy** and **share** your applications.
-- Discover **best practices** when designing apps with generative AI.
-- Participate in a **hackathon-style project** to consolidate your learning.
-
----
-
-## 👤 Who Is This Course For?
-
-This course is intended for:
-
-- Beginners interested in Artificial Intelligence.
-- Developers who want to quickly prototype AI ideas.
-- Educators and students exploring AI applications.
-- Innovators participating in hackathons.
-- Anyone curious about no-code platforms and generative AI.
+PartyRock es ideal para:
+- Prototipado rápido
+- Aprendizaje sobre IA
+- Creación de demos
+- Hackathons y eventos de innovación
 
 ---
 
-## 🛠️ Prerequisites
+## 📚 ¿Qué aprenderás?
 
-No prior programming knowledge is required!
+A lo largo de este curso:
 
-You just need:
-
-- A free PartyRock account.
-- Curiosity and creativity.
-
----
-
-## 📂 Supporting Material
-
-In each module, you will find:
-- Explanatory text
-- Step-by-step exercises
-- Diagrams and images
-- Example projects
-
-Images will be located in the [`images/`](./images) folder for reference.
+- Comprenderás los conceptos básicos de la **IA Generativa**.
+- Explorarás las capacidades de **PartyRock**.
+- Construirás tu **primera aplicación de IA**.
+- Aprenderás a **desplegar** y **compartir** tus aplicaciones.
+- Descubrirás **mejores prácticas** al diseñar aplicaciones con IA generativa.
+- Participarás en un **proyecto estilo hackathon** para consolidar tu aprendizaje.
 
 ---
 
-## 🎯 Let's get started!
+## 👤 ¿Para quién es este curso?
 
-![Welcome Image](./images/welcome-partyrock.png)
+Este curso está dirigido a:
+
+- Principiantes interesados en la Inteligencia Artificial.
+- Desarrolladores que quieren prototipar ideas de IA rápidamente.
+- Educadores y estudiantes que exploran aplicaciones de IA.
+- Innovadores que participan en hackathons.
+- Cualquier persona curiosa sobre plataformas sin código e IA generativa.
+
+---
+
+## 🛠️ Requisitos previos
+
+¡No se requieren conocimientos previos de programación!
+
+Solo necesitas:
+
+- Una cuenta gratuita de PartyRock.
+- Curiosidad y creatividad.
+
+---
+
+## 📂 Material de apoyo
+
+En cada módulo, encontrarás:
+- Texto explicativo
+- Ejercicios paso a paso
+- Diagramas e imágenes
+- Proyectos de ejemplo
+
+Las imágenes estarán ubicadas en la carpeta [`images/`](./images) para referencia.
+
+---
+
+## 🎯 ¡Comencemos!
+
+![Imagen de bienvenida](./images/welcome-partyrock.png)
 
 ---
 ---
 
-## 1 · Exploring the PartyRock Interface
+## 1 · Explorando la interfaz de PartyRock
 
-As soon as you sign-in, PartyRock welcomes you with a bright, minimal workspace:
+En cuanto inicias sesión, PartyRock te da la bienvenida con un espacio de trabajo brillante y minimalista:
 
-![Home screen](./images/00_partyrock-home.png)
+![Pantalla de inicio](./images/00_partyrock-home.png)
 
-*The sidebar on the left is your control-panel; the large canvas on the right is where every app takes shape.*
-
----
-
-### 1.1 Generate Your First App
-
-Select **Generate app** and you will be offered two paths:
-
-1. **Describe an idea** in plain language (PartyRock scaffolds the app for you).  
-2. **Build manually** from an empty canvas.
-
-![Generate-app dialogue](./images/01_partyrock-generate-app-prompt.png)
-
-If you choose the blank route you are greeted by a pristine editor:
-
-![Blank canvas](./images/02_partyrock-empty-app.png)
+*La barra lateral izquierda es tu panel de control; el amplio lienzo de la derecha es donde toma forma cada aplicación.*
 
 ---
 
-### 1.2 Repository View
+### 1.1 Genera tu primera aplicación
 
-Every app you create is listed in your personal repository.  
-Here you may **snapshot**, **duplicate** or **publish** any project.
+Selecciona **Generar aplicación** y se te ofrecerán dos caminos:
 
-![Repository of apps](./images/03-repo-apps.png)
+1. **Describe una idea** en lenguaje común (PartyRock crea la estructura de la aplicación por ti).  
+2. **Construye manualmente** desde un lienzo vacío.
 
-Snapshots are invaluable for version control:
+![Diálogo de generación de aplicación](./images/01_partyrock-generate-app-prompt.png)
 
-![Snapshots pane](./images/04-snapshots-partyrock.png)  
-![Triggered snapshot](./images/05-partyrock-snapshots.png)
+Si eliges la ruta en blanco, serás recibido por un editor inmaculado:
+
+![Lienzo en blanco](./images/02_partyrock-empty-app.png)
 
 ---
 
-## 2 · Widgets – The Building Blocks
+### 1.2 Vista del repositorio
 
-Open the editor and notice the **widget palette**:
-![File widget](./images/13_widget_file.png) 
+Cada aplicación que creas aparece en tu repositorio personal.  
+Aquí puedes crear **instantáneas**, **duplicar** o **publicar** cualquier proyecto.
+
+![Repositorio de aplicaciones](./images/03-repo-apps.png)
+
+Las instantáneas son invaluables para el control de versiones:
+
+![Panel de instantáneas](./images/04-snapshots-partyrock.png)  
+![Instantánea activada](./images/05-partyrock-snapshots.png)
+
+---
+
+## 2 · Widgets – Los componentes básicos
+
+Abre el editor y observa la **paleta de widgets**:
+![Widget de archivo](./images/13_widget_file.png) 
 
 
-| Category | Typical widgets | Example screenshot |
+| Categoría | Widgets típicos | Ejemplo de captura de pantalla |
 |----------|-----------------|--------------------|
-| **Inputs** | Text · Select · Slider · Files |![Widget palette](./images/12-createapp-widgets.png) |
-| **AI-powered** | Generated Text · Generated Image · Chat Box | ![Generated Text widget](./images/14-widget-iageneration.png) |
-| **Other** | Static Text for headings/instructions | — |
+| **Entradas** | Texto · Selección · Deslizador · Archivos |![Paleta de widgets](./images/12-createapp-widgets.png) |
+| **Con IA integrada** | Texto generado · Imagen generada · Chat | ![Widget de texto generado](./images/14-widget-iageneration.png) |
+| **Otros** | Texto estático para encabezados/instrucciones | — |
 
 ---
 
-### 2.1 Prompt Configuration
+### 2.1 Configuración del prompt
 
-Each AI widget includes a **Prompt** tab.  
-Reference other widgets with `@WidgetName`.
+Cada widget de IA incluye una pestaña de **Prompt**.  
+Haz referencia a otros widgets con `@NombreDelWidget`.
 
-![Prompt editor](./images/15-prompt-widgetgeneration.png)
+![Editor de prompt](./images/15-prompt-widgetgeneration.png)
 
 ---
 
-## 3 · Choosing a Foundation Model
+## 3 · Eligiendo un modelo fundacional
 
-Switch to the **Model** tab to pick a model hosted by Amazon Bedrock.
+Cambia a la pestaña **Modelo** para elegir un modelo alojado por Amazon Bedrock.
 
-![Model picker](./images/16-widget-modlepicker.png)
+![Selector de modelo](./images/16-widget-modlepicker.png)
 
-| Model (Apr 2025) | Vendor | Highlights | Recommended use-cases |
+| Modelo (Abr 2025) | Proveedor | Puntos destacados | Casos de uso recomendados |
 |------------------|--------|------------|-----------------------|
-| **Amazon Nova (Micro • Lite • Pro)** | AWS | Fast inference, Pro gives deeper reasoning | General chat, summarisation |
-| **Claude 3.5 (Haiku • Sonnet v2)** | Anthropic | Long-context, high factuality | Research assistants, legal review |
-| **Jamba 1.5 (Mini • Large)** | AI21 Labs | Efficient multilingual output | Localisation, customer replies |
-| **Command R / R+** | Cohere | Structured, RAG-friendly | Data extraction, FAQs |
-| **Llama 3.1 (8 B • 70 B)** | Meta | Open-weights, creative text | Brainstorming, marketing copy |
-| **Mistral 2 (Small • Large)** | Mistral AI | Crisp, maths-aware | Coding help, logical tasks |
+| **Amazon Nova (Micro • Lite • Pro)** | AWS | Inferencia rápida, Pro ofrece razonamiento más profundo | Chat general, resúmenes |
+| **Claude 3.5 (Haiku • Sonnet v2)** | Anthropic | Contexto largo, alta factualidad | Asistentes de investigación, revisión legal |
+| **Jamba 1.5 (Mini • Large)** | AI21 Labs | Salida multilingüe eficiente | Localización, respuestas a clientes |
+| **Command R / R+** | Cohere | Estructurado, compatible con RAG | Extracción de datos, FAQs |
+| **Llama 3.1 (8 B • 70 B)** | Meta | Pesos abiertos, texto creativo | Lluvia de ideas, textos de marketing |
+| **Mistral 2 (Small • Large)** | Mistral AI | Conciso, consciente de matemáticas | Ayuda de código, tareas lógicas |
 
-Fine-tune generation with **Temperature** and **Top-P** sliders:
+Ajusta la generación con los deslizadores de **Temperatura** y **Top-P**:
 
-![Model parameters](./images/17-model-params.png)
+![Parámetros del modelo](./images/17-model-params.png)
 
-| Setting | What it does | Quick rule |
+| Ajuste | Qué hace | Regla rápida |
 |---------|--------------|------------|
-| **Temperature** | Adds **spice**. 0 = straight-laced, 1 = creative. | Lower for facts, higher for ideas. |
-| **Top-P** | Keeps only the top **P%** of likely words. | 0.5 = safest, 1.0 = unrestricted. |
+| **Temperatura** | Añade **picante**. 0 = directo, 1 = creativo. | Más baja para hechos, más alta para ideas. |
+| **Top-P** | Mantiene solo el **P%** superior de palabras probables. | 0.5 = más seguro, 1.0 = sin restricciones. |
 
-**Example (“Write a rainy-day tweet”):**
+**Ejemplo ("Escribe un tweet para un día lluvioso"):**
 
-| Temp / Top-P | Possible output |
+| Temp / Top-P | Posible resultado |
 |--------------|-----------------|
-| 0.2 / 1.0 | *“Drizzle, tea, quiet inbox. Perfect.”* |
-| 0.7 / 0.9 | *“London drips espresso dreams onto my window-pane.”* |
-| 0.9 / 1.0 | *“Clouds slam poetry; puddles clap back in rhyme.”* |
+| 0.2 / 1.0 | *"Llovizna, té, bandeja de entrada tranquila. Perfecto."* |
+| 0.7 / 0.9 | *"Londres gotea sueños de espresso sobre mi ventana."* |
+| 0.9 / 1.0 | *"Las nubes hacen poesía slam; los charcos responden en rima."* |
 
-**Use-case cheat-sheet**
+**Guía rápida de casos de uso**
 
-- **Precise summary** → Temp 0.2 , Top-P 0.6  
-- **Blog copy** → Temp 0.5 , Top-P 0.9  
-- **Crazy ideas** → Temp 0.9 , Top-P 1.0
+- **Resumen preciso** → Temp 0.2 , Top-P 0.6  
+- **Texto para blog** → Temp 0.5 , Top-P 0.9  
+- **Ideas locas** → Temp 0.9 , Top-P 1.0
 
-![Temperature Summary](./images/sampling-icecream-example.png)
+![Resumen de temperatura](./images/sampling-icecream-example.png)
 ---
 
-## 4 · Image Generation
+## 4 · Generación de imágenes
 
-Add a *Generated Image* widget to turn text prompts into visuals:
+Añade un widget de *Imagen generada* para convertir prompts de texto en elementos visuales:
 
-![Generate images](./images/06-image-generation.png)
+![Generar imágenes](./images/06-image-generation.png)
 
 ---
 
-## 5 · Learning & Support Panels
+## 5 · Paneles de aprendizaje y soporte
 
-### 5.1 PartyRock Guide
+### 5.1 Guía de PartyRock
 
-Step-by-step handbook covering getting started, building and FAQs.
+Manual paso a paso que cubre cómo empezar, construir y preguntas frecuentes.
 
-![Guide](./images/08-partyrock-guide.png)
+![Guía](./images/08-partyrock-guide.png)
 
-### 5.2 What’s New
+### 5.2 Novedades
 
-Release notes and new feature highlights.
+Notas de lanzamiento y destacados de nuevas funciones.
 
-![What’s new](./images/09-partyrock-whatsnew.png)
+![Novedades](./images/09-partyrock-whatsnew.png)
 
-### 5.3 Public Roadmap
+### 5.3 Hoja de ruta pública
 
-Vote for future features or submit your own requests.
+Vota por futuras funciones o envía tus propias solicitudes.
 
-![Roadmap](./images/10-partyrock-roadmap.png)
+![Hoja de ruta](./images/10-partyrock-roadmap.png)
 
 ### 5.4 Backstage
 
-A dashboard aggregating learning modules, snapshots and usage statistics.
+Un panel que agrega módulos de aprendizaje, instantáneas y estadísticas de uso.
 
 ![Backstage](./images/11-partyrock-backstage.png)
 
 ---
 
-## 6 · Mini Walk-through — From Blank Canvas to Working App
+## 6 · Mini tutorial — De un lienzo en blanco a una aplicación funcional
 
-1. **Create** a blank app.  
-2. Add **Files** widget `Resume` and **Text** widget `Job Offer`.  
-3. Add **Generated Text** widget `Evaluation`.  
-4. In Prompt, compare `@Resume` with `@Job Offer` and output a match score.  
-5. Select **Amazon Nova Pro**, Temperature 0.4.  
-6. Snapshot, iterate, then publish.
+1. **Crea** una aplicación en blanco.  
+2. Añade el widget **Archivos** `Currículum` y el widget **Texto** `Oferta de trabajo`.  
+3. Añade el widget **Texto generado** `Evaluación`.  
+4. En Prompt, compara `@Currículum` con `@Oferta de trabajo` y muestra una puntuación de coincidencia.  
+5. Selecciona **Amazon Nova Pro**, Temperatura 0.4.  
+6. Crea una instantánea, itera y luego publica.
 
-You have just built a functional CV-to-job analyser without writing a single line of code!
-
----
-
-## 7 · Suggested Next Steps
-
-- Remix the example to translate e-mails or generate cover letters.  
-- Swap between **Claude Sonnet** and **Llama 70 B** to observe stylistic differences.  
-- Explore image widgets for creative apps such as logo generators or comic strip creators.
+¡Acabas de crear un analizador funcional de CV y ofertas de trabajo sin escribir una sola línea de código!
 
 ---
 
-### 🎉 Welcome again to PartyRock – enjoy building! 🚀
+## 7 · Siguientes pasos sugeridos
+
+- Modifica el ejemplo para traducir correos electrónicos o generar cartas de presentación.  
+- Alterna entre **Claude Sonnet** y **Llama 70 B** para observar diferencias estilísticas.  
+- Explora widgets de imágenes para aplicaciones creativas como generadores de logos o creadores de tiras cómicas.
+
+---
+
+### 🎉 ¡Bienvenido de nuevo a PartyRock – disfruta construyendo! 🚀
 
 
-> **Note:** This is a personal, independent project. Not affiliated with AWS.
+> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.
