@@ -1,74 +1,75 @@
-# 05 - Prompt Engineering
+# 05 - Ingeniería de Prompts
 
-Welcome to the world of **Prompt Engineering** — the skill of writing effective instructions for AI models!
+¡Bienvenido al mundo de la **Ingeniería de Prompts** — la habilidad de escribir instrucciones efectivas para modelos de IA!
 
-In this module, you’ll learn:
+En este módulo, aprenderás:
 
-- What a prompt is
-- Why prompting matters
-- Structure of a good prompt
-- Examples of prompts (Text, Images, Music, Code)
-- Best practices
-- Common mistakes
-- Practice exercises
-
----
-
-## 🧠 What is a Prompt?
-
-A **prompt** is the instruction, question, or request you give to an AI model.  
-It tells the model **what you want** and **how you want it**.
-
-> "A prompt is your way of talking to the AI — the clearer you are, the better the AI responds."
+- Qué es un prompt
+- Por qué los prompts son importantes
+- La estructura de un buen prompt
+- Ejemplos de prompts (Texto, Imágenes, Música, Código)
+- Mejores prácticas
+- Errores comunes
+- Ejercicios prácticos
 
 ---
 
-## 🎯 Why Are Prompts Important?
+## 🧠 ¿Qué es un Prompt?
 
-Good prompts are the **foundation** of great AI-generated results.
+Un **prompt** es la instrucción, pregunta o solicitud que das a un modelo de IA.  
+Le dice al modelo **qué quieres** y **cómo lo quieres**.
 
-| Weak Prompt | Strong Prompt |
+> "Un prompt es tu manera de hablar con la IA — cuanto más claro seas, mejor responderá la IA."
+
+---
+
+## 🎯 ¿Por qué son importantes los Prompts?
+
+Los buenos prompts son la **base** de excelentes resultados generados por IA.
+
+| Prompt Débil | Prompt Fuerte |
 |:------------|:--------------|
-| "Tell me about dogs." | "List 5 surprising facts about German Shepherds in under 100 words." |
+| "Háblame sobre perros." | "Enumera 5 datos sorprendentes sobre Pastores Alemanes en menos de 100 palabras." |
 
-✅ Specific prompts lead to:
+✅ Los prompts específicos conducen a:
 
-- More **relevant** responses
-- Better **quality** outputs
-- Less **randomness**
+- Respuestas más **relevantes**
+- Resultados de mejor **calidad**
+- Menos **aleatoriedad**
 
 ---
 
-## 🏗️ The Anatomy of a Good Prompt
+## 🏗️ La Anatomía de un Buen Prompt
 
-A well-constructed prompt usually has four parts:
+Un prompt bien construido generalmente tiene cuatro partes:
 
-| Part | Description |
+| Parte | Descripción |
 |:-----|:------------|
-| **Goal** | What do you want? |
-| **Return Format** | How should it be structured? |
-| **Warnings** | What should be avoided? |
-| **Context Dump** | Any background info to guide the AI |
+| **Objetivo** | ¿Qué quieres? |
+| **Formato de Retorno** | ¿Cómo debe estructurarse? |
+| **Advertencias** | ¿Qué debe evitarse? |
+| **Contexto** | Cualquier información de fondo para guiar a la IA |
 
 ---
 
-### 📊 Visual: Anatomy of a Prompt
+### 📊 Visual: Anatomía de un Prompt
 
-![Anatomy of a Prompt](./images/anatomy-of-a-prompt.png)
+![Anatomía de un Prompt](./images/anatomy-of-a-prompt.png)
 
-*(Image showing the breakdown: Goal, Return Format, Warnings, Context)*
-*Source: OpenAI
+*(Imagen mostrando el desglose: Objetivo, Formato de Retorno, Advertencias, Contexto)*
+*Fuente: OpenAI
 ---
 
-## ✍️ Examples of Prompts
+## ✍️ Ejemplos de Prompts
 
-### 📄 1. Text Generation Prompt
+### 📄 1. Prompt de Generación de Texto
 
 ```plaintext
-Task: Write a motivational quote in under 20 words.
+Tarea: Escribe una cita motivacional en menos de 20 palabras.
 
-Return Format: Single sentence, no hashtags.
+Formato de Retorno: Una sola frase, sin hashtags.
 
-Important Notes: Avoid clichés.
+Notas Importantes: Evita los clichés.
 
-Context: Audience is young entrepreneurs launching startups.
+Contexto: La audiencia son jóvenes emprendedores lanzando startups.
+```

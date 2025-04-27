@@ -1,135 +1,135 @@
-# 04 - Example Applications
+# 04 - Aplicaciones de Ejemplo
 
-In this section, we'll walk through an example of building a complete application using **AWS PartyRock**.
+En esta sección, recorreremos un ejemplo de construcción de una aplicación completa utilizando **AWS PartyRock**.
 
-We'll cover:
+Cubriremos:
 
-- How to start from a blank app.
-- How to define the idea.
-- How to set up the input/output widgets.
-- How to build a useful real-world tool: **JobFit Analyzer**.
+- Cómo empezar desde una aplicación en blanco.
+- Cómo definir la idea.
+- Cómo configurar los widgets de entrada/salida.
+- Cómo construir una herramienta útil para el mundo real: **Analizador de Ajuste Laboral**.
 
-Let’s get started! 🚀
-
----
-
-## 🛠️ Starting a New App
-
-First, go to [partyrock.aws](https://partyrock.aws) and click on `Generate App`.
-
-You can start from an idea or create manually.
-
-![PartyRock New App Screen](./images/partyrock-new-app-screen.png)
+¡Comencemos! 🚀
 
 ---
 
-## 🧠 Defining the Idea
+## 🛠️ Iniciando una Nueva Aplicación
 
-Describe briefly what you want your app to do.
+Primero, ve a [partyrock.aws](https://partyrock.aws) y haz clic en `Generar Aplicación`.
 
-For our example, we will create an app that analyzes how well your **CV (resume)** matches a **Job Offer**.
+Puedes comenzar desde una idea o crear manualmente.
 
-Prompt Example:
-
-> "Create an app where users upload their CV and a job description. Analyze match percentage, strengths, weaknesses, and improvement tips."
-
-![PartyRock Build App Prompt](./images/partyrock-build-app-prompt.png)
+![Pantalla de Nueva Aplicación de PartyRock](./images/partyrock-new-app-screen.png)
 
 ---
 
-## 📋 Starting from a Blank Canvas
+## 🧠 Definiendo la Idea
 
-Once created, you will have a blank app with basic placeholders for inputs.
+Describe brevemente lo que quieres que haga tu aplicación.
 
-We need two main inputs:
-- **@CV** (User’s resume or CV)
-- **@JobOffer** (Job description text)
+Para nuestro ejemplo, crearemos una aplicación que analice qué tan bien tu **CV (currículum)** coincide con una **Oferta de Trabajo**.
 
-![PartyRock New Blank App](./images/partyrock-new-app-blank.png)
+Ejemplo de Prompt:
 
----
+> "Crea una aplicación donde los usuarios suban su CV y una descripción de trabajo. Analiza el porcentaje de coincidencia, fortalezas, debilidades y consejos de mejora."
 
-## ⚡ Building "JobFit Analyzer"
-
-We renamed our app to **JobFit Analyzer** and configured:
-
-- **Input**: Upload CV (file or text).
-- **Input**: Paste the Job Offer description.
-- **AI-Powered Output**: Text analysis showing match score, strengths, weaknesses, and tips.
-
-Here's the overview:
-
-![JobFit Final App Overview](./images/jobfit-final-app-overview.png)
+![Prompt de Construcción de Aplicación en PartyRock](./images/partyrock-build-app-prompt.png)
 
 ---
 
-## 🧐 Example of Detailed Analysis
+## 📋 Comenzando desde un Lienzo en Blanco
 
-When the user provides a CV and a Job Offer, the app returns a structured evaluation:
+Una vez creada, tendrás una aplicación en blanco con marcadores básicos para entradas.
 
-- **Match Score** (0%–100%)
-- **Strengths**
-- **Weaknesses**
-- **Recommendations**
+Necesitamos dos entradas principales:
+- **@CV** (Currículum o CV del usuario)
+- **@OfertaDeTrabajo** (Texto de descripción del trabajo)
 
-Example output:
-
-![JobFit App Detailed Evaluation](./images/jobfit-app-detailed-evaluation.png)
+![Nueva Aplicación en Blanco en PartyRock](./images/partyrock-new-app-blank.png)
 
 ---
 
-## 🤖 Choosing the Right Model
+## ⚡ Construyendo el "Analizador de Ajuste Laboral"
 
-We tested different models to optimize results.  
-You can pick from options like Claude, Llama, or Amazon Nova!
+Renombramos nuestra aplicación a **Analizador de Ajuste Laboral** y configuramos:
 
-Here is where you configure the model:
+- **Entrada**: Subir CV (archivo o texto).
+- **Entrada**: Pegar la descripción de la Oferta de Trabajo.
+- **Salida Potenciada por IA**: Análisis de texto que muestra puntuación de coincidencia, fortalezas, debilidades y consejos.
 
-![JobFit Model Selection](./images/jobfit-app-model-selection.png)
+Aquí está la vista general:
 
----
-
-## 🧩 Customizing the Prompt
-
-You can refine exactly how the AI should evaluate the CV vs. the Job Offer.
-
-The prompt defines the quality of the evaluation.
-
-Example editing screen:
-
-![JobFit Prompt Editing](./images/jobfit-app-prompt-edition.png)
+![Vista General Final de la Aplicación JobFit](./images/jobfit-final-app-overview.png)
 
 ---
 
-## 🎯 Selecting Models Dynamically
+## 🧐 Ejemplo de Análisis Detallado
 
-PartyRock allows you to pick the model that works best for your case, depending on the app complexity.
+Cuando el usuario proporciona un CV y una Oferta de Trabajo, la aplicación devuelve una evaluación estructurada:
 
-Here’s the model picker view:
+- **Puntuación de Coincidencia** (0%–100%)
+- **Fortalezas**
+- **Debilidades**
+- **Recomendaciones**
 
-![JobFit Model Picker](./images/jobfit-app-model-picker.png)
+Ejemplo de salida:
 
----
-
-# 🚀 Final Notes
-
-✅ This example shows that building an impactful app with **PartyRock** is possible in just a few minutes.
-
-✅ The **JobFit Analyzer** is a practical, real-world application that:
-- Helps users tailor their resumes.
-- Improves job search strategies.
-- Increases interview success rates.
-
-✅ You can remix this idea and build many variations:  
-- Compare multiple job offers.  
-- Suggest resume improvements automatically.  
-- Build a career coaching assistant.
+![Evaluación Detallada de la Aplicación JobFit](./images/jobfit-app-detailed-evaluation.png)
 
 ---
 
-# 🎉 Your Turn!
+## 🤖 Eligiendo el Modelo Adecuado
 
-Now it’s your turn to start building.  
-Use PartyRock, your imagination, and the examples you've seen to create your own **generative AI applications**!
+Probamos diferentes modelos para optimizar los resultados.  
+¡Puedes elegir entre opciones como Claude, Llama o Amazon Nova!
 
-> **Remember**: Start simple, iterate fast, and have fun creating! 🚀
+Aquí es donde configuras el modelo:
+
+![Selección de Modelo para JobFit](./images/jobfit-app-model-selection.png)
+
+---
+
+## 🧩 Personalizando el Prompt
+
+Puedes refinar exactamente cómo la IA debe evaluar el CV versus la Oferta de Trabajo.
+
+El prompt define la calidad de la evaluación.
+
+Ejemplo de pantalla de edición:
+
+![Edición de Prompt para JobFit](./images/jobfit-app-prompt-edition.png)
+
+---
+
+## 🎯 Seleccionando Modelos Dinámicamente
+
+PartyRock te permite elegir el modelo que funcione mejor para tu caso, dependiendo de la complejidad de la aplicación.
+
+Aquí está la vista del selector de modelo:
+
+![Selector de Modelo para JobFit](./images/jobfit-app-model-picker.png)
+
+---
+
+# 🚀 Notas Finales
+
+✅ Este ejemplo muestra que construir una aplicación impactante con **PartyRock** es posible en solo unos minutos.
+
+✅ El **Analizador de Ajuste Laboral** es una aplicación práctica del mundo real que:
+- Ayuda a los usuarios a adaptar sus currículos.
+- Mejora las estrategias de búsqueda de empleo.
+- Aumenta las tasas de éxito en entrevistas.
+
+✅ Puedes remixar esta idea y construir muchas variaciones:  
+- Comparar múltiples ofertas de trabajo.  
+- Sugerir mejoras al currículum automáticamente.  
+- Construir un asistente de coaching profesional.
+
+---
+
+# 🎉 ¡Tu Turno!
+
+Ahora es tu turno de empezar a construir.  
+¡Usa PartyRock, tu imaginación y los ejemplos que has visto para crear tus propias **aplicaciones de IA generativa**!
+
+> **Recuerda**: ¡Comienza simple, itera rápido y diviértete creando! 🚀

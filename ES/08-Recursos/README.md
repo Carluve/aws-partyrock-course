@@ -1,83 +1,159 @@
-# 08 - Resources
+# 07 - Guía de Hackathon con PartyRock
 
-Congratulations on completing the AWS PartyRock Generative AI Course! 🎉
+¡Bienvenido a la sección de Hackathon!
 
-This section provides additional resources to deepen your knowledge, explore further, and continue building amazing applications.
-
----
-
-## 📚 Official Resources
-
-- **PartyRock Official Site**  
-👉 [https://partyrock.aws](https://partyrock.aws)
-
-- **Amazon Bedrock Documentation**  
-👉 [https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html)
-
-- **AWS Machine Learning Resources**  
-👉 [https://aws.amazon.com/machine-learning/](https://aws.amazon.com/machine-learning/)
-
-- **AWS AI & ML Blog**  
-👉 [https://aws.amazon.com/blogs/machine-learning/](https://aws.amazon.com/blogs/machine-learning/)
+Aquí aplicarás todo lo que has aprendido sobre IA Generativa y PartyRock en un **desafío divertido y dinámico**.
 
 ---
 
-## 🎥 Recommended Videos
+## 🧠 ¿Qué es un Hackathon?
 
-- **What is Generative AI? (AWS)**  
-🎬 [Watch on YouTube](https://www.youtube.com/watch?v=UwsrzCVZAb8)
+Un **hackathon** es un evento creativo donde los participantes colaboran intensivamente para construir proyectos innovadores en un período corto de tiempo.
 
-- **How to Build Your First App on PartyRock**  
-🎬 [Watch on YouTube](https://www.youtube.com/watch?v=uzSJGkJHT74)
+Los hackathons se caracterizan por:
 
-- **Introduction to Amazon Bedrock**  
-🎬 [Watch on YouTube](https://www.youtube.com/watch?v=kmt8BFSgCw8)
+- Creatividad
+- Velocidad
+- Aprender haciendo
+- Mostrar ideas
 
----
-
-## 🧠 Key Learning Articles
-
-- **AWS PartyRock: Enabling No-Code Generative AI Apps**  
-📰 [Read article](https://aws.amazon.com/blogs/machine-learning/introducing-partyrock-build-generative-ai-apps-without-writing-code/)
-
-- **Understanding Prompts for Generative AI**  
-📰 [Prompt Engineering Guide](https://www.promptingguide.ai/)
-
-- **Foundations of Generative AI (DeepLearning.AI)**  
-📰 [View Course](https://www.deeplearning.ai/short-courses/generative-ai/)
+![Resumen de Hackathon PartyRock](./images/partyrock-hackathon-summary.png)
 
 ---
 
-## 🛠️ Extra Tools for Experimentation
+## 🛠️ ¿Qué Construirás?
 
-| Tool | Purpose | Link |
-|:-----|:--------|:-----|
-| OpenAI Playground | Explore text generation interactively | [playground.openai.com](https://platform.openai.com/playground) |
-| Hugging Face Spaces | Discover community-built AI apps | [huggingface.co/spaces](https://huggingface.co/spaces) |
-| Canva AI Tools | Create AI-generated visual content | [canva.com](https://www.canva.com/ai-tools/) |
+¡Crearás una **aplicación potenciada por IA** usando **PartyRock**!
 
----
+Tu aplicación debe:
 
-## 🌟 Recommended Books
-
-- **"You Look Like a Thing and I Love You" by Janelle Shane**  
-(A fun, accessible book about how AI works.)
-
-- **"Architects of Intelligence" by Martin Ford**  
-(Interviews with top AI experts about the future of AI.)
-
-- **"Deep Learning" by Ian Goodfellow, Yoshua Bengio, Aaron Courville**  
-(Advanced resource for those wanting to dive deeper.)
+- Resolver un problema del mundo real
+- Ser fácil de usar
+- Mostrar creatividad en cómo utiliza la IA Generativa
+- Contener al menos **un prompt complejo y bien diseñado**
 
 ---
 
-# 🏁 Final Message
 
-🎉 **Congratulations again!**
+![Diagrama de Flujo Completo del Hackathon](./images/hackathon-complete-flowchart.png)
+**Descripción**: Visual del proceso de creación del hackathon.
 
-Learning never ends.  
-Keep building, experimenting, sharing, and growing your skills in the world of **Generative AI** and **no-code platforms** like **PartyRock**.
+---
 
-Stay creative — the future is yours! 🚀
+## 📋 Programa del Hackathon
+
+| Fase | Duración | Actividad |
+|:------|:---------|:---------|
+| 🧑‍🏫 Introducción | 30 minutos | Formación rápida sobre PartyRock, Prompts y reglas del Hackathon |
+| 🛠️ Hackathon | 2 horas | Construir tu aplicación, probarla, preparar presentación |
+| 🎤 Presentaciones | 30 minutos | Los equipos demuestran sus aplicaciones |
+
+---
+
+## 👥 Cómo Formar Grupos
+
+- Se recomiendan **grupos de 2-3 personas**.
+- También puedes trabajar **individualmente** si lo prefieres.
+- Forma equipos basándote en **intereses comunes** o mediante **asignación aleatoria**.
+- **Consejo para romper el hielo**: Comparte tu idea favorita para una aplicación en 30 segundos para ayudar a encontrar compañeros de equipo.
+
+---
+
+## 📜 Reglas Básicas
+
+- Todas las aplicaciones deben construirse usando **PartyRock**.
+- Debes crear una **nueva aplicación** durante el período del hackathon (no aplicaciones pre-construidas).
+- Las aplicaciones deben incluir **al menos un prompt** diseñado por el equipo.
+- Cada equipo completará un **Formulario de Proyecto** al enviarlo.
+
+---
+
+## 🚀 Flujo del Hackathon
+
+| Paso | Descripción |
+|:-----|:------------|
+| 1️⃣ Ideación | Lluvia de ideas para aplicaciones (10 minutos) |
+| 2️⃣ Construcción | Crear la aplicación en PartyRock (90 minutos) |
+| 3️⃣ Pruebas | Probar, ajustar, mejorar (20 minutos) |
+| 4️⃣ Presentación | Demo en vivo a los jueces (3 minutos por equipo) |
+
+---
+
+## 📝 Formulario de Envío del Proyecto
+
+Cada equipo debe completar este formulario:
+
+**Nombre del Equipo:**  
+**Miembros del Equipo:**  
+**Título de la Aplicación:**  
+**Descripción de la Aplicación:**  
+**Funcionalidad Principal:**  
+**Tipo de IA Generativa utilizada (Texto, Imagen, etc.):**  
+**Ejemplo de Prompt (copiar uno de los principales prompts utilizados):**  
+**Enlace a la Aplicación (enlace de PartyRock):**
+
+*(Puedes crear esto como un Formulario de Google, o simplemente usar hojas impresas.)*
+
+---
+
+## 🏆 Criterios de Evaluación
+
+| Criterio | Descripción |
+|:---------|:------------|
+| **Creatividad** | Originalidad e inventiva de la idea |
+| **Funcionalidad** | Si la aplicación funciona según lo previsto |
+| **Experiencia de Usuario (UX)** | Facilidad de uso y calidad del diseño |
+| **Impacto** | Potencial para resolver un problema del mundo real |
+| **Complejidad de Prompts** | Ingenio y eficacia del diseño de prompts |
+| **Presentación** | Claridad, entusiasmo y calidad de explicación durante la demo |
+
+---
+
+![Lluvia de Ideas para Aplicaciones](./images/brainstorming-app-ideas.png)
+**Descripción**: Nube de lluvia de ideas de posibles aplicaciones.
+
+---
+
+## 💡 Ejemplos de Ideas de Proyectos
+
+| Idea de Proyecto | Descripción |
+|:-------------|:------------|
+| Comparador de Currículum | Compara currículos con descripciones de trabajo |
+| Compañero de Bienestar | Sugiere actividades diarias para mejorar el estado de ánimo |
+| Compañero de Estudios | Crea cuestionarios y consejos de estudio |
+| Recomendador de Viajes | Sugiere destinos de viaje |
+| Motivador Diario | Envía citas motivacionales personalizadas |
+
+---
+
+## 🎤 Cómo Presentar Tu Aplicación
+
+**Plan de Presentación de 3 minutos:**
+
+- **Nombre de la Aplicación**: ¿Cómo se llama tu proyecto?
+- **Problema**: ¿Qué problema estás resolviendo?
+- **Demo**: Muestra la característica principal de tu aplicación en vivo.
+- **Destaque**: ¿Qué es lo mejor de tu aplicación?
+- **Agradecimiento**: Agradece a los jueces, al público y al equipo.
+
+---
+
+## ✅ Consejos para el Éxito
+
+- Comienza con **un objetivo claro**.
+- Mantén tu aplicación **simple pero impactante**.
+- Concéntrate en un **buen diseño de prompt** — ¡es clave!
+- Prueba temprano y itera rápido.
+- ¡Sé confiado y entusiasta en tu presentación!
+
+---
+
+# 🏁 Conclusión
+
+Los hackathons no tratan sobre la perfección — se trata de **creatividad, colaboración y diversión**.
+
+¡Supera tus límites, disfruta de la experiencia y construyamos algo increíble juntos con PartyRock! 🎉
+
+![Principales Aprendizajes del Curso](./images/course-key-takeaways.png)
 
 ---
