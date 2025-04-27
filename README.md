@@ -13,7 +13,7 @@ The repository is organized into modules, each covering different concepts and p
 - [02 - Building Your First App](./EN/02-FirstApp/README.md)
 - [03 - Understanding Generative AI](./EN/03-GenerativeAI/README.md)
 - [04 - Example Applications](./EN/04-ExampleApplications/README.md)
-- [05 - Deployment and Sharing](./EN/05-Deployment/README.md)
+- [05 - Prompt](./EN/05-Prompt/README.md)
 - [06 - Best Practices](./EN/06-BestPractices/README.md)
 - [07 - Hackathon Guide](./EN/07-Hackathon/README.md)
 - [08 - Additional Resources](./EN/08-Resources/README.md)

@@ -55,6 +55,7 @@ A well-constructed prompt usually has four parts:
 ### 📊 Visual: Anatomy of a Prompt
 
 ![Anatomy of a Prompt](./images/anatomy-of-a-prompt.png)
+
 *(Image showing the breakdown: Goal, Return Format, Warnings, Context)*
 *Source: OpenAI
 ---
