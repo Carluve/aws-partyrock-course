@@ -1,271 +1,271 @@
-# 03 - Understanding Generative AI
+# 03 - Entendiendo la IA Generativa
 
-Welcome to this important module!  
-Before building more powerful applications, it’s essential to understand what **Generative Artificial Intelligence (Generative AI)** actually is and how it works.
+¡Bienvenido a este importante módulo!  
+Antes de construir aplicaciones más potentes, es esencial entender qué es realmente la **Inteligencia Artificial Generativa (IA Generativa)** y cómo funciona.
 
-This will give you a strong foundation for using PartyRock and creating amazing apps.
+Esto te dará una base sólida para usar PartyRock y crear aplicaciones sorprendentes.
 
 
-# 📚 Understanding Artificial Intelligence Layers
+# 📚 Entendiendo las Capas de la Inteligencia Artificial
 
-Before we jump into Generative AI, it's crucial to understand the broader landscape of Artificial Intelligence (AI).
+Antes de adentrarnos en la IA Generativa, es crucial entender el panorama más amplio de la Inteligencia Artificial (IA).
 
-We can imagine AI as a set of **layers**, where each layer becomes more specialized.
-
----
-
-## 🧠 Artificial Intelligence (AI)
-
-**Definition:**  
-AI is the ability of machines to perform tasks that normally require human intelligence.
-
-These tasks include:
-
-- Recognizing speech
-- Understanding language
-- Making decisions
-- Identifying objects
-- Playing games
-
-**Everyday Examples:**
-
-- 🗣️ Voice assistants like **Siri** or **Alexa**.
-- 📸 Smartphones detecting faces in photos.
-- 📧 Spam filters in your email.
+Podemos imaginar la IA como un conjunto de **capas**, donde cada capa se vuelve más especializada.
 
 ---
 
-![AI, ML, and DL Relationship](./images/ai-ml-dl-circles.png)
-**Description**: Visual showing AI as the parent category, with ML and DL inside.
+## 🧠 Inteligencia Artificial (IA)
+
+**Definición:**  
+La IA es la capacidad de las máquinas para realizar tareas que normalmente requieren inteligencia humana.
+
+Estas tareas incluyen:
+
+- Reconocer el habla
+- Entender el lenguaje
+- Tomar decisiones
+- Identificar objetos
+- Jugar juegos
+
+**Ejemplos cotidianos:**
+
+- 🗣️ Asistentes de voz como **Siri** o **Alexa**.
+- 📸 Smartphones detectando rostros en fotos.
+- 📧 Filtros de spam en tu correo electrónico.
 
 ---
 
-## 📚 Machine Learning (ML)
-
-**Definition:**  
-Machine Learning is a subset of AI.  
-It refers to algorithms that allow machines to **learn** from data **without being explicitly programmed**.
-
-In other words, ML systems **improve over time** based on experience.
-
-**Everyday Examples:**
-
-- 📈 Netflix or Spotify recommending movies or music.
-- 🛒 Amazon suggesting products based on previous purchases.
-- 🚗 Ride-sharing apps like Uber predicting prices and arrival times.
+![Relación entre IA, ML y DL](./images/ai-ml-dl-circles.png)
+**Descripción**: Visual mostrando la IA como categoría principal, con ML y DL dentro.
 
 ---
 
-## 🧠 Deep Learning (DL)
+## 📚 Aprendizaje Automático (Machine Learning - ML)
 
-**Definition:**  
-Deep Learning is a more specialized subset of Machine Learning.  
-It uses **artificial neural networks** inspired by the human brain to handle very complex patterns.
+**Definición:**  
+El Aprendizaje Automático es un subconjunto de la IA.  
+Se refiere a algoritmos que permiten a las máquinas **aprender** de los datos **sin ser explícitamente programadas**.
 
-Deep Learning can:
+En otras palabras, los sistemas de ML **mejoran con el tiempo** basándose en la experiencia.
 
-- Process images
-- Understand speech
-- Recognize handwriting
-- Translate languages
+**Ejemplos cotidianos:**
 
-**Everyday Examples:**
-
-- 📷 Facebook automatically tagging your friends in photos.
-- 🧠 Google Translate improving real-time translations.
-- 🎮 Video game AIs that adapt to your playing style.
+- 📈 Netflix o Spotify recomendando películas o música.
+- 🛒 Amazon sugiriendo productos basados en compras anteriores.
+- 🚗 Aplicaciones de transporte como Uber prediciendo precios y tiempos de llegada.
 
 ---
 
-## 🎨 Generative AI
+## 🧠 Aprendizaje Profundo (Deep Learning - DL)
 
-**Definition:**  
-Generative AI is a special type of Deep Learning focused on **creating new content** — not just recognizing or predicting.
+**Definición:**  
+El Aprendizaje Profundo es un subconjunto más especializado del Aprendizaje Automático.  
+Utiliza **redes neuronales artificiales** inspiradas en el cerebro humano para manejar patrones muy complejos.
 
-It generates:
+El Aprendizaje Profundo puede:
 
-- Text
-- Images
-- Music
-- Code
-- Videos
+- Procesar imágenes
+- Entender el habla
+- Reconocer escritura a mano
+- Traducir idiomas
 
-by learning from huge datasets.
+**Ejemplos cotidianos:**
 
-**Everyday Examples:**
-
-- ✍️ ChatGPT writing essays or emails.
-- 🖼️ DALL·E creating original artworks from text prompts.
-- 🎶 AI composing background music for YouTube videos.
-- 🛍️ AI helping e-commerce sites auto-generate product descriptions.
+- 📷 Facebook etiquetando automáticamente a tus amigos en fotos.
+- 🧠 Google Translate mejorando traducciones en tiempo real.
+- 🎮 IAs de videojuegos que se adaptan a tu estilo de juego.
 
 ---
 
-![Content Types Generated by Generative AI](./images/generative-ai-content-types.png)
-**Description**: Visual showing types of content generated by Generative AI.
+## 🎨 IA Generativa
+
+**Definición:**  
+La IA Generativa es un tipo especial de Aprendizaje Profundo enfocado en **crear nuevo contenido** — no solo reconocer o predecir.
+
+Genera:
+
+- Texto
+- Imágenes
+- Música
+- Código
+- Vídeos
+
+aprendiendo de enormes conjuntos de datos.
+
+**Ejemplos cotidianos:**
+
+- ✍️ ChatGPT escribiendo ensayos o correos electrónicos.
+- 🖼️ DALL·E creando obras de arte originales a partir de instrucciones de texto.
+- 🎶 IA componiendo música de fondo para vídeos de YouTube.
+- 🛍️ IA ayudando a sitios de comercio electrónico a generar automáticamente descripciones de productos.
 
 ---
 
-## 🌟 Quick Summary Table
+![Tipos de contenido generados por la IA Generativa](./images/generative-ai-content-types.png)
+**Descripción**: Visual mostrando tipos de contenido generados por la IA Generativa.
 
-| Layer | Focus | Everyday Example |
+---
+
+## 🌟 Tabla Resumen Rápido
+
+| Capa | Enfoque | Ejemplo Cotidiano |
 |:------|:------|:-----------------|
-| AI | Broad intelligence tasks | Siri, Face Recognition |
-| ML | Learn from data | Netflix Recommendations |
-| DL | Learn complex patterns | Facebook auto-tagging |
-| Generative AI | Create new content | ChatGPT, DALL·E |
+| IA | Tareas amplias de inteligencia | Siri, Reconocimiento Facial |
+| ML | Aprender de datos | Recomendaciones de Netflix |
+| DL | Aprender patrones complejos | Etiquetado automático de Facebook |
+| IA Generativa | Crear nuevo contenido | ChatGPT, DALL·E |
 
 
 ---
 
-## 🚀 What is Generative AI?
+## 🚀 ¿Qué es la IA Generativa?
 
-**Generative AI** refers to artificial intelligence systems that can create new content:  
-such as text, images, music, code, and more — based on patterns learned from existing data.
+**La IA Generativa** se refiere a sistemas de inteligencia artificial que pueden crear nuevo contenido:  
+como texto, imágenes, música, código y más — basados en patrones aprendidos de datos existentes.
 
-Instead of simply **recognizing** or **classifying** information, generative models **produce** completely new outputs.
+En lugar de simplemente **reconocer** o **clasificar** información, los modelos generativos **producen** salidas completamente nuevas.
 
-> "Generative AI doesn't just process data; it *creates* new data."
-
----
-
-### 📚 A Simple Analogy
-
-Imagine teaching a student how to write poems.  
-You give them hundreds of poems to study.  
-Later, you ask them to write a *new poem*.  
-They don’t copy — they create something **original**, inspired by everything they've read.
-
-That’s exactly how **Generative AI** models work.
+> "La IA Generativa no solo procesa datos; *crea* nuevos datos."
 
 ---
 
-## 🧠 How Does Generative AI Work?
+### 📚 Una Analogía Simple
 
-At the core of Generative AI are **Foundation Models** (FMs), large-scale AI models trained on massive datasets.
+Imagina enseñar a un estudiante a escribir poemas.  
+Le das cientos de poemas para estudiar.  
+Más tarde, le pides que escriba un *nuevo poema*.  
+No copia — crea algo **original**, inspirado en todo lo que ha leído.
 
-They typically use techniques like:
-
-- **Machine Learning (ML)**: Learning from examples.
-- **Deep Learning**: Using neural networks with many layers (especially transformers).
-- **Self-supervised Learning**: Learning from unlabeled data.
-
-When you input a **prompt**, the model generates a **new output** by predicting the most likely next step or composition.
+Así es exactamente cómo funcionan los modelos de **IA Generativa**.
 
 ---
 
-![How Generative AI Works](./images/generative-ai-input-to-output.png)
-**Description**: Visual representation of how Generative AI produces content from a user prompt.
+## 🧠 ¿Cómo Funciona la IA Generativa?
+
+En el núcleo de la IA Generativa están los **Modelos Fundacionales** (FMs), modelos de IA a gran escala entrenados con conjuntos de datos masivos.
+
+Normalmente utilizan técnicas como:
+
+- **Aprendizaje Automático (ML)**: Aprender de ejemplos.
+- **Aprendizaje Profundo**: Usar redes neuronales con muchas capas (especialmente transformers).
+- **Aprendizaje Autosupervisado**: Aprender de datos no etiquetados.
+
+Cuando introduces un **prompt**, el modelo genera una **nueva salida** prediciendo el siguiente paso o composición más probable.
 
 ---
 
-## 🔎 Key Concepts You Need to Know
+![Cómo funciona la IA Generativa](./images/generative-ai-input-to-output.png)
+**Descripción**: Representación visual de cómo la IA Generativa produce contenido a partir de un prompt del usuario.
 
-| Concept | Meaning | Example |
+---
+
+## 🔎 Conceptos Clave que Debes Conocer
+
+| Concepto | Significado | Ejemplo |
 |:--------|:--------|:--------|
-| **Prompt** | The input you give to the model | "Write a short story about a dragon." |
-| **Model** | The AI brain that processes prompts | GPT-4, Titan Text, Claude |
-| **Output** | The generated content | Story, Image, Poem, Answer |
-| **Fine-tuning** | Specializing a model with extra training | Training a chatbot for a bank |
-| **Inference** | Running the model to get an answer | Asking for a restaurant recommendation |
+| **Prompt** | La entrada que das al modelo | "Escribe un cuento corto sobre un dragón." |
+| **Modelo** | El cerebro de IA que procesa los prompts | GPT-4, Titan Text, Claude |
+| **Salida** | El contenido generado | Historia, Imagen, Poema, Respuesta |
+| **Fine-tuning** | Especializar un modelo con entrenamiento adicional | Entrenar un chatbot para un banco |
+| **Inferencia** | Ejecutar el modelo para obtener una respuesta | Pedir una recomendación de restaurante |
 
 ---
 
-## 🏗️ What is a Foundation Model?
+## 🏗️ ¿Qué es un Modelo Fundacional?
 
-A **Foundation Model** is a very large AI model trained on broad data (e.g., all kinds of text, images, websites)  
-so that it can be **adapted to many different tasks** with little additional training.
+Un **Modelo Fundacional** es un modelo de IA muy grande entrenado con datos amplios (p.ej., todo tipo de textos, imágenes, sitios web)  
+para que pueda **adaptarse a muchas tareas diferentes** con poco entrenamiento adicional.
 
-Examples of Foundation Models:
+Ejemplos de Modelos Fundacionales:
 
-- Titan (by AWS)
-- Claude (by Anthropic)
-- Jurassic (by AI21 Labs)
-- Llama (by Meta)
-- Mistral, Falcon, Stability models...
+- Titan (de AWS)
+- Claude (de Anthropic)
+- Jurassic (de AI21 Labs)
+- Llama (de Meta)
+- Mistral, Falcon, modelos de Stability...
 
-PartyRock uses **Foundation Models through Amazon Bedrock** — allowing you to use world-class AI capabilities **without coding**.
-
----
-
-![Foundation Model to Specialized Apps](./images/foundation-model-to-apps.png)
-**Description**: How a single foundation model can be adapted to chatbots, translators, content creators, etc.
+PartyRock utiliza **Modelos Fundacionales a través de Amazon Bedrock** — permitiéndote usar capacidades de IA de clase mundial **sin programación**.
 
 ---
 
-## 🎨 What Can Generative AI Create?
-
-With the right prompts, Generative AI can create:
-
-- ✍️ **Texts**: Stories, articles, product descriptions, emails.
-- 🖼️ **Images**: Art, logos, photo edits, illustrations.
-- 🎵 **Music**: Melodies, beats, entire songs.
-- 📈 **Data**: Tables, summaries, reports.
-- 👨‍💻 **Code**: Websites, scripts, applications.
+![Modelo Fundacional a Aplicaciones Especializadas](./images/foundation-model-to-apps.png)
+**Descripción**: Cómo un solo modelo fundacional puede adaptarse a chatbots, traductores, creadores de contenido, etc.
 
 ---
 
-## 💡 Why Is Generative AI a Big Deal?
+## 🎨 ¿Qué Puede Crear la IA Generativa?
 
-Generative AI is transforming industries:
+Con los prompts adecuados, la IA Generativa puede crear:
 
-- **Marketing**: Content creation in minutes.
-- **Education**: Personalized learning experiences.
-- **Healthcare**: Simulated medical scenarios.
-- **Entertainment**: Game dialogue and new storylines.
-- **Business**: Automated email responses, document generation.
-
-It democratizes creativity: **Everyone can now be a creator**, not just programmers!
+- ✍️ **Textos**: Historias, artículos, descripciones de productos, correos electrónicos.
+- 🖼️ **Imágenes**: Arte, logos, ediciones de fotos, ilustraciones.
+- 🎵 **Música**: Melodías, ritmos, canciones completas.
+- 📈 **Datos**: Tablas, resúmenes, informes.
+- 👨‍💻 **Código**: Sitios web, scripts, aplicaciones.
 
 ---
 
-## 🔥 Challenges and Risks
+## 💡 ¿Por Qué la IA Generativa es Tan Importante?
 
-While Generative AI is powerful, it's important to be aware of its risks:
+La IA Generativa está transformando industrias:
 
-- **Bias**: Models may inherit biases from their training data.
-- **Hallucination**: Sometimes AI invents information that isn't real.
-- **Security**: Potential misuse if not monitored.
-- **Copyright**: Unclear ownership of generated content.
+- **Marketing**: Creación de contenido en minutos.
+- **Educación**: Experiencias de aprendizaje personalizadas.
+- **Sanidad**: Escenarios médicos simulados.
+- **Entretenimiento**: Diálogos de juegos y nuevas líneas argumentales.
+- **Negocios**: Respuestas automatizadas de correo electrónico, generación de documentos.
 
-Good practice: **Always review and validate** AI-generated outputs.
-
----
-
-![Benefits vs. Risks of Generative AI](./images/generative-ai-benefits-vs-risks.png)
-**Description**: Quick overview comparing opportunities and challenges.
+Democratiza la creatividad: **Ahora todos pueden ser creadores**, ¡no solo los programadores!
 
 ---
 
-## 🧭 How Generative AI is Used in PartyRock
+## 🔥 Desafíos y Riesgos
 
-In PartyRock:
+Aunque la IA Generativa es potente, es importante ser consciente de sus riesgos:
 
-- Your **prompt** defines what the app does.
-- PartyRock connects to a **Foundation Model** behind the scenes.
-- The model **generates outputs** based on user inputs dynamically.
-- You can **design full apps** by combining different input/output widgets.
+- **Sesgo**: Los modelos pueden heredar sesgos de sus datos de entrenamiento.
+- **Alucinación**: A veces la IA inventa información que no es real.
+- **Seguridad**: Posible uso indebido si no se monitoriza.
+- **Derechos de autor**: Propiedad poco clara del contenido generado.
 
-This way, even non-programmers can leverage **very advanced AI technologies** easily.
+Buena práctica: **Siempre revisar y validar** las salidas generadas por IA.
 
 ---
 
-## 📅 Summary
+![Beneficios vs. Riesgos de la IA Generativa](./images/generative-ai-benefits-vs-risks.png)
+**Descripción**: Visión rápida comparando oportunidades y desafíos.
 
-| You Learned | Key Takeaways |
+---
+
+## 🧭 Cómo se Utiliza la IA Generativa en PartyRock
+
+En PartyRock:
+
+- Tu **prompt** define lo que hace la aplicación.
+- PartyRock se conecta a un **Modelo Fundacional** en segundo plano.
+- El modelo **genera salidas** basadas en las entradas del usuario de forma dinámica.
+- Puedes **diseñar aplicaciones completas** combinando diferentes widgets de entrada/salida.
+
+De esta manera, incluso los no programadores pueden aprovechar **tecnologías de IA muy avanzadas** fácilmente.
+
+---
+
+## 📅 Resumen
+
+| Has Aprendido | Puntos Clave |
 |:------------|:--------------|
-| What is Generative AI | AI that creates new content |
-| How it works | Through prompts and foundation models |
-| Applications | Texts, images, music, data, code |
-| Benefits | Creativity, productivity, innovation |
-| Risks | Bias, hallucinations, legal issues |
-| Role in PartyRock | Easily build AI apps using no-code tools |
+| Qué es la IA Generativa | IA que crea nuevo contenido |
+| Cómo funciona | A través de prompts y modelos fundacionales |
+| Aplicaciones | Textos, imágenes, música, datos, código |
+| Beneficios | Creatividad, productividad, innovación |
+| Riesgos | Sesgo, alucinaciones, cuestiones legales |
+| Rol en PartyRock | Construir fácilmente aplicaciones de IA usando herramientas sin código |
 
 ---
 
-# 🌟 Congratulations!
+# 🌟 ¡Enhorabuena!
 
-You now understand the **foundations of Generative AI**.  
-You're ready to move forward and build **even smarter apps** with PartyRock!
+Ahora entiendes los **fundamentos de la IA Generativa**.  
+¡Estás listo para avanzar y construir **aplicaciones aún más inteligentes** con PartyRock!
 
 ---
