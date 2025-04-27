@@ -17,7 +17,6 @@ This AWS PartyRock course guides you through the world of no-code generative AI.
 Este curso sobre AWS PartyRock te guía a través del mundo de la IA generativa sin código. Aprenderás a crear aplicaciones potentes utilizando modelos fundacionales de IA sin escribir una sola línea de código. Desde conceptos básicos hasta ejemplos prácticos y mejores prácticas, este curso te proporciona las habilidades necesarias para construir, implementar y compartir aplicaciones de IA generativa con confianza. Perfecto tanto para principiantes como para innovadores que buscan prototipar ideas rápidamente.
 
 ---
----
 
 ## 🧭 Modules
 
@@ -73,7 +72,5 @@ The screenshots included are personal and may show specific versions of the inte
 Las capturas de pantalla incluidas son personales y pueden mostrar versiones específicas de la interfaz que podrían cambiar con el tiempo. Algunas partes del contenido han sido creadas o mejoradas utilizando IA generativa, por lo que pueden contener imprecisiones o errores. Este curso es principalmente para fines educativos.
 
 ---
-
-## 📅 Last updated / Última actualización: April / Abril 2025
 
 ## 📅 Last updated: April 2025
