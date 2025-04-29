@@ -101,10 +101,6 @@ PartyRock configura automáticamente widgets básicos de entrada y salida:
 - Actividades deseadas
 - Salida de recomendación de viaje
 
-Aquí tienes la estructura inicial generada:
-
-![Estructura de la aplicación de viajes](./images/travel-app-structure.png)
-
 ---
 
 ### Paso 3: Vista previa de la aplicación vacía
@@ -128,3 +124,12 @@ Después de completar el formulario, PartyRock genera recomendaciones personaliz
 ¡Acabas de crear y personalizar tu primera **aplicación de IA generativa** con PartyRock!
 
 ---
+
+## 📚 Continúa el curso
+
+**[➡️ Siguiente módulo: 03 - Entendiendo la IA Generativa](../03-IAGenerativa/README.md)**
+
+---
+
+> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.
+

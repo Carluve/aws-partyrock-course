@@ -25,16 +25,16 @@ Esta sección proporciona recursos adicionales para profundizar en tu conocimien
 ## 🎥 Vídeos Recomendados
 
 - **Introducción a PartyRock**  
-🎬 [Ver en YouTube](https://youtu.be/enVMvlcyMMc)
+[![Introducción a PartyRock](https://img.youtube.com/vi/enVMvlcyMMc/0.jpg)](https://youtu.be/enVMvlcyMMc "Introducción a PartyRock")
 
 - **La magia de los Widgets**  
-🎬 [Ver en YouTube](https://youtu.be/gOdO9ncg5Ns)
+[![La magia de los Widgets](https://img.youtube.com/vi/gOdO9ncg5Ns/0.jpg)](https://youtu.be/gOdO9ncg5Ns "La magia de los Widgets")
 
 - **Buenas prácticas con PartyRock**  
-🎬 [Ver en YouTube](https://youtu.be/7Vyzb-mKZ04)
+[![Buenas prácticas con PartyRock](https://img.youtube.com/vi/7Vyzb-mKZ04/0.jpg)](https://youtu.be/7Vyzb-mKZ04 "Buenas prácticas con PartyRock")
 
 - **Introducción a la ingeniería de prompts**  
-🎬 [Ver en YouTube](https://youtu.be/lOAbUdcryek)
+[![Introducción a la ingeniería de prompts](https://img.youtube.com/vi/lOAbUdcryek/0.jpg)](https://youtu.be/lOAbUdcryek "Introducción a la ingeniería de prompts")
 
 ---
 
@@ -54,23 +54,9 @@ Esta sección proporciona recursos adicionales para profundizar en tu conocimien
 ## 🛠️ Herramientas Adicionales para Experimentación
 
 | Herramienta | Propósito | Enlace |
-|:-----|:--------|:-----||
+|:-----|:--------|:-----|
 | Hugging Face Spaces | Descubre aplicaciones de IA construidas por la comunidad | [huggingface.co/spaces](https://huggingface.co/spaces) |
 | Canva AI Tools | Crea contenido visual generado por IA | [canva.com](https://www.canva.com/ai-tools/) |
-
----
-
-## 🌟 Libros Recomendados
-
-- **"You Look Like a Thing and I Love You" de Janelle Shane**  
-(Un libro divertido y accesible sobre cómo funciona la IA).
-
-- **"Architects of Intelligence" de Martin Ford**  
-(Entrevistas con expertos destacados en IA sobre el futuro de la IA).
-
-- **"Deep Learning" de Ian Goodfellow, Yoshua Bengio, Aaron Courville**  
-(Recurso avanzado para quienes desean profundizar más).
-
 ---
 
 # 🏁 Mensaje Final

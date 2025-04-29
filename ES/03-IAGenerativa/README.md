@@ -269,3 +269,11 @@ Ahora entiendes los **fundamentos de la IA Generativa**.
 ¡Estás listo para avanzar y construir **aplicaciones aún más inteligentes** con PartyRock!
 
 ---
+
+## 📚 Continúa el curso
+
+**[➡️ Siguiente módulo: 04 - Aplicaciones de Ejemplo](../04-AplicacionesEjemplo/README.md)**
+
+---
+
+> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.

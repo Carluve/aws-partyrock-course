@@ -57,7 +57,7 @@ Un prompt bien construido generalmente tiene cuatro partes:
 ![Anatomía de un Prompt](./images/anatomy-of-a-prompt.png)
 
 *(Imagen mostrando el desglose: Objetivo, Formato de Retorno, Advertencias, Contexto)*
-*Fuente: OpenAI
+
 ---
 
 ## ✍️ Ejemplos de Prompts
@@ -73,3 +73,13 @@ Notas Importantes: Evita los clichés.
 
 Contexto: La audiencia son jóvenes emprendedores lanzando startups.
 ```
+
+---
+
+## 📚 Continúa el curso
+
+**[➡️ Siguiente módulo: 06 - Mejores Prácticas](../06-MejoresPracticas/README.md)**
+
+---
+
+> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.

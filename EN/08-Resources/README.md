@@ -55,22 +55,8 @@ This section provides additional resources to deepen your knowledge, explore fur
 
 | Tool | Purpose | Link |
 |:-----|:--------|:-----|
-| OpenAI Playground | Explore text generation interactively | [playground.openai.com](https://platform.openai.com/playground) |
 | Hugging Face Spaces | Discover community-built AI apps | [huggingface.co/spaces](https://huggingface.co/spaces) |
 | Canva AI Tools | Create AI-generated visual content | [canva.com](https://www.canva.com/ai-tools/) |
-
----
-
-## 🌟 Recommended Books
-
-- **"You Look Like a Thing and I Love You" by Janelle Shane**  
-(A fun, accessible book about how AI works.)
-
-- **"Architects of Intelligence" by Martin Ford**  
-(Interviews with top AI experts about the future of AI.)
-
-- **"Deep Learning" by Ian Goodfellow, Yoshua Bengio, Aaron Courville**  
-(Advanced resource for those wanting to dive deeper.)
 
 ---
 

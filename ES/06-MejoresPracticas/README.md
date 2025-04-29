@@ -163,3 +163,12 @@ Al publicar:
 ✅ ¡Publica tu aplicación en PartyRock y comparte el enlace!
 
 ---
+
+
+## 📚 Continúa el curso
+
+**[➡️ Siguiente módulo: 07 - Guía de Hackathon](../07-Hackathon/README.md)**
+
+---
+
+> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.

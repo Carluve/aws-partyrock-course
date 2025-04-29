@@ -133,3 +133,13 @@ Ahora es tu turno de empezar a construir.
 ¡Usa PartyRock, tu imaginación y los ejemplos que has visto para crear tus propias **aplicaciones de IA generativa**!
 
 > **Recuerda**: ¡Comienza simple, itera rápido y diviértete creando! 🚀
+
+---
+
+## 📚 Continúa el curso
+
+**[➡️ Siguiente módulo: 05 - Ingeniería de Prompts](../05-Prompt/README.md)**
+
+---
+
+> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.

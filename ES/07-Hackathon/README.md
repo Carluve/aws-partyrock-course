@@ -157,3 +157,21 @@ Los hackathons no tratan sobre la perfección — se trata de **creatividad, col
 ![Principales Aprendizajes del Curso](./images/course-key-takeaways.png)
 
 ---
+
+# 🏁 Conclusión
+
+Los hackathons no tratan sobre la perfección — se trata de **creatividad, colaboración y diversión**.
+
+¡Supera tus límites, disfruta de la experiencia y construyamos algo increíble juntos con PartyRock! 🎉
+
+![Principales Aprendizajes del Curso](./images/course-key-takeaways.png)
+
+---
+
+## 📚 Continúa el curso
+
+**[➡️ Siguiente módulo: 08 - Recursos Adicionales](../08-Recursos/README.md)**
+
+---
+
+> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.
