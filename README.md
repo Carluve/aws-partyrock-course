@@ -64,24 +64,28 @@ Aquest curs sobre PartyRock et guia a través del món de la IA generativa sense
 
 ## 🙏 Acknowledgements / Agradecimientos
 
+
 This course has been inspired by and benefited from the work of many authors and educators in the field of generative AI. Special thanks to:
 
 - The AWS team for creating PartyRock and providing documentation
-- AI learning communities such as DeepLearning.AI and Hugging Face
+- Iñaki Bilbao - Head of Skills to Job at AWS https://www.linkedin.com/in/ibilbaoestrada/
+- @cmilanf AWS Principal Solutions Architect https://www.linkedin.com/in/cmilanf/
 - All authors cited in the additional resources section
 - The global developer community sharing knowledge about generative AI
 
 Este curso se ha inspirado y beneficiado del trabajo de muchos autores y educadores en el campo de la IA generativa. Un agradecimiento especial a:
 
 - El equipo de AWS por crear PartyRock y proporcionar documentación
-- Comunidades de aprendizaje de IA como DeepLearning.AI y Hugging Face
+- Iñaki Bilbao - Head of Skills to Job at AWS https://www.linkedin.com/in/ibilbaoestrada/
+- @cmilanf AWS Principal Solutions Architect https://www.linkedin.com/in/cmilanf/
 - Todos los autores citados en la sección de recursos adicionales
 - La comunidad global de desarrolladores compartiendo conocimientos sobre IA generativa
 
 Aquest curs s'ha inspirat i beneficiat del treball de molts autors i educadors en el camp de la IA generativa. Un agraïment especial a:
 
 - L'equip d'AWS per crear PartyRock i proporcionar documentació
-- Comunitats d'aprenentatge d'IA com DeepLearning.AI i Hugging Face
+- Iñaki Bilbao - Head of Skills to Job at AWS https://www.linkedin.com/in/ibilbaoestrada/
+- @cmilanf AWS Principal Solutions Architect https://www.linkedin.com/in/cmilanf/
 - Tots els autors citats en la secció de recursos addicionals
 - La comunitat global de desenvolupadors compartint coneixements sobre IA generativa
 ---
