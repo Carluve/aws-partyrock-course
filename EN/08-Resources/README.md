@@ -41,13 +41,13 @@ This section provides additional resources to deepen your knowledge, explore fur
 ## 🧠 Key Learning Articles
 
 - **AWS PartyRock: Enabling No-Code Generative AI Apps**  
-📰 [Read article](https://aws.amazon.com/blogs/machine-learning/introducing-partyrock-build-generative-ai-apps-without-writing-code/)
+📰 [Read article](https://partyrock.aws/guide)
 
 - **Understanding Prompts for Generative AI**  
-📰 [Prompt Engineering Guide](https://www.promptingguide.ai/)
+📰 [Prompt Engineering Guide](https://aws.amazon.com/what-is/prompt-engineering/)
 
 - **Foundations of Generative AI (DeepLearning.AI)**  
-📰 [View Course](https://www.deeplearning.ai/short-courses/generative-ai/)
+📰 [View Course](https://skillbuilder.aws/search?searchText=generative+ai&page=1)
 
 ---
 

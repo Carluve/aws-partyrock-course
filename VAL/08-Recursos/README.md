@@ -41,13 +41,13 @@ Esta secció proporciona recursos addicionals per a aprofundir en el teu coneixe
 ## 🧠 Articles Clau d'Aprenentatge
 
 - **AWS PartyRock: Habilitant Aplicacions d'IA Generativa Sense Codi**  
-📰 [Llegir article](https://aws.amazon.com/blogs/machine-learning/introducing-partyrock-build-generative-ai-apps-without-writing-code/)
+📰 [Llegir article](https://partyrock.aws/guide)
 
 - **Entenent els Prompts per a IA Generativa**  
-📰 [Guia d'Enginyeria de Prompts](https://www.promptingguide.ai/)
+📰 [Guia d'Enginyeria de Prompts](https://aws.amazon.com/what-is/prompt-engineering/)
 
 - **Fonaments de la IA Generativa (DeepLearning.AI)**  
-📰 [Veure Curs](https://www.deeplearning.ai/short-courses/generative-ai/)
+📰 [Veure Curs](https://skillbuilder.aws/search?searchText=generative+ai&page=1)
 
 ---
 

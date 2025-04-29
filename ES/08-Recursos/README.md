@@ -41,13 +41,13 @@ Esta sección proporciona recursos adicionales para profundizar en tu conocimien
 ## 🧠 Artículos Clave de Aprendizaje
 
 - **AWS PartyRock: Habilitando Aplicaciones de IA Generativa Sin Código**  
-📰 [Leer artículo](https://aws.amazon.com/blogs/machine-learning/introducing-partyrock-build-generative-ai-apps-without-writing-code/)
+📰 [Leer artículo](https://partyrock.aws/guide)
 
 - **Entendiendo los Prompts para IA Generativa**  
-📰 [Guía de Ingeniería de Prompts](https://www.promptingguide.ai/)
+📰 [Guía de Ingeniería de Prompts](https://aws.amazon.com/what-is/prompt-engineering/)
 
-- **Fundamentos de la IA Generativa (DeepLearning.AI)**  
-📰 [Ver Curso](https://www.deeplearning.ai/short-courses/generative-ai/)
+- **Fundamentos de la IA Generativa**  
+📰 [Ver Curso](https://skillbuilder.aws/search?searchText=generative+ai&page=1)
 
 ---
 

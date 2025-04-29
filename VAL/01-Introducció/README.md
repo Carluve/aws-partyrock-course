@@ -258,7 +258,7 @@ Acabes de crear un analitzador funcional de CV i ofertes de treball sense escriu
 
 ## 📚 Continua el curs
 
-**[➡️ Següent mòdul: 02 - Construint La Teua Primera Aplicació](../02-PrimeraAplicacion/README.md)**
+**[➡️ Següent mòdul: 02 - Construint La Teua Primera Aplicació](../02-Aplicació/README.md)**
 
 ---
 

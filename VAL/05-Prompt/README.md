@@ -73,6 +73,7 @@ Notes Importants: Evita els clixés.
 
 Context: L'audiència són joves emprenedors llançant startups.
 
+```
 
 ## 📚 Continúa el curso
 
@@ -80,4 +81,5 @@ Context: L'audiència són joves emprenedors llançant startups.
 
 ---
 
-> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.
+> **Nota:** Este és un projecte personal i independent. No està afiliat amb AWS.
+
