@@ -1,8 +1,8 @@
 # 01 - Introducción
 
-¡Bienvenido al curso de **AWS PartyRock**!
+¡Bienvenido al curso de **PartyRock**!
 
-En este curso, aprenderás a crear **aplicaciones de IA generativa** sin escribir una sola línea de código, utilizando AWS PartyRock y el poder de los modelos fundacionales en Amazon Bedrock.
+En este curso, aprenderás a crear **aplicaciones de IA generativa** sin escribir una sola línea de código, utilizando PartyRock y el poder de los modelos fundacionales en Amazon Bedrock.
 
 ---
 
@@ -72,7 +72,6 @@ Las imágenes estarán ubicadas en la carpeta [`images/`](./images) para referen
 ![Imagen de bienvenida](./images/welcome-partyrock.png)
 
 ---
----
 
 ## 1 · Explorando la interfaz de PartyRock
 
@@ -93,7 +92,7 @@ Selecciona **Generar aplicación** y se te ofrecerán dos caminos:
 
 ![Diálogo de generación de aplicación](./images/01_partyrock-generate-app-prompt.png)
 
-Si eliges la ruta en blanco, serás recibido por un editor inmaculado:
+Si eliges la "Aplicación en blanco", serás recibido por el lienzo vacío de PartyRock, listo para que empieces a construir:
 
 ![Lienzo en blanco](./images/02_partyrock-empty-app.png)
 
@@ -142,14 +141,27 @@ Cambia a la pestaña **Modelo** para elegir un modelo alojado por Amazon Bedrock
 
 ![Selector de modelo](./images/16-widget-modlepicker.png)
 
-| Modelo (Abr 2025) | Proveedor | Puntos destacados | Casos de uso recomendados |
-|------------------|--------|------------|-----------------------|
-| **Amazon Nova (Micro • Lite • Pro)** | AWS | Inferencia rápida, Pro ofrece razonamiento más profundo | Chat general, resúmenes |
-| **Claude 3.5 (Haiku • Sonnet v2)** | Anthropic | Contexto largo, alta factualidad | Asistentes de investigación, revisión legal |
-| **Jamba 1.5 (Mini • Large)** | AI21 Labs | Salida multilingüe eficiente | Localización, respuestas a clientes |
-| **Command R / R+** | Cohere | Estructurado, compatible con RAG | Extracción de datos, FAQs |
-| **Llama 3.1 (8 B • 70 B)** | Meta | Pesos abiertos, texto creativo | Lluvia de ideas, textos de marketing |
-| **Mistral 2 (Small • Large)** | Mistral AI | Conciso, consciente de matemáticas | Ayuda de código, tareas lógicas |
+
+# 📊 Tabla Comparativa de Modelos en PartyRock
+
+| Modelo | Proveedor | Descripción breve | Casos de Uso principales |
+|:------|:-----------|:-------------------|:-------------------------|
+| **Claude 3.5 Haiku** | Anthropic | Muy rápido, ideal para apps en tiempo real | Desarrollo ágil, chatbots, extracción de datos |
+| **Claude 3.5 Sonnet v2** | Anthropic | Modelo insignia, razonamiento avanzado, multimodal | Desarrollo full-stack, investigación, sistemas de diálogo |
+| **Jamba 1.5 Large** | HuggingFace | Procesamiento de lenguaje natural de alta escala | Análisis semántico, generación de contenido |
+| **Jamba 1.5 Mini** | HuggingFace | Compacto y eficiente para recursos limitados | Aplicaciones móviles, procesamiento básico |
+| **Command R** | Cohere | Especializado en procesamiento de instrucciones | Automatización, control de sistemas |
+| **Command R+** | Cohere | Mejor manejo de instrucciones complejas | Integraciones avanzadas, RAG |
+| **Amazon Nova Micro** | AWS | Ultra ligero, ideal para edge computing | IoT, sistemas embebidos, apps móviles |
+| **Amazon Nova Lite** | AWS | Balanceado para cloud y web apps | Servicios en la nube, apps web |
+| **Amazon Nova Pro** | AWS | Alto rendimiento, soluciones empresariales | Análisis avanzado, procesamiento intensivo |
+| **Llama 3.1 Instruct 70B** | Meta | Modelo de gran tamaño para tareas técnicas | Desarrollo de software, análisis técnico |
+| **Llama 3.1 Instruct 8B** | Meta | Versión ligera de 8B parámetros | Prototipado rápido, tareas básicas |
+| **Mistral Large 2 (24.07)** | Mistral AI | Multilingüe, generación de contenido profesional | Análisis semántico, NLP avanzado |
+| **Mistral Small 2 (24.02)** | Mistral AI | Compacto para procesamiento simple de texto | Chatbots básicos, apps ligeras |
+
+---
+
 
 Ajusta la generación con los deslizadores de **Temperatura** y **Top-P**:
 

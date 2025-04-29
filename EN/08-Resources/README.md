@@ -24,14 +24,17 @@ This section provides additional resources to deepen your knowledge, explore fur
 
 ## 🎥 Recommended Videos
 
-- **What is Generative AI? (AWS)**  
-🎬 [Watch on YouTube](https://www.youtube.com/watch?v=UwsrzCVZAb8)
+- **Introducción a PartyRock**  
+🎬 [Ver en YouTube](https://youtu.be/enVMvlcyMMc)
 
-- **How to Build Your First App on PartyRock**  
-🎬 [Watch on YouTube](https://www.youtube.com/watch?v=uzSJGkJHT74)
+- **La magia de los Widgets**  
+🎬 [Ver en YouTube](https://youtu.be/gOdO9ncg5Ns)
 
-- **Introduction to Amazon Bedrock**  
-🎬 [Watch on YouTube](https://www.youtube.com/watch?v=kmt8BFSgCw8)
+- **Buenas prácticas con PartyRock**  
+🎬 [Ver en YouTube](https://youtu.be/7Vyzb-mKZ04)
+
+- **Introducción a la ingeniería de prompts**  
+🎬 [Ver en YouTube](https://youtu.be/lOAbUdcryek)
 
 ---
 

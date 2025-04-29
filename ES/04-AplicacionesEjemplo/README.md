@@ -1,6 +1,6 @@
 # 04 - Aplicaciones de Ejemplo
 
-En esta sección, recorreremos un ejemplo de construcción de una aplicación completa utilizando **AWS PartyRock**.
+En esta sección, recorreremos un ejemplo de construcción de una aplicación completa utilizando **PartyRock**.
 
 Cubriremos:
 
@@ -37,7 +37,7 @@ Ejemplo de Prompt:
 
 ---
 
-## 📋 Comenzando desde un Lienzo en Blanco
+## 📋 Comenzando desde una "App en Blanco"
 
 Una vez creada, tendrás una aplicación en blanco con marcadores básicos para entradas.
 

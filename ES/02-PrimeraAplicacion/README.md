@@ -45,7 +45,7 @@ Esto es lo que encontrarás:
 
 ![Guía de PartyRock](./images/backstage-guide.png)
 
-**Ejemplo de Hoja de ruta pública:**
+**Ejemplo de APP en blanco:**
 
 ![Hoja de ruta de PartyRock](./images/public-roadmap.png)
 
