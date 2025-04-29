@@ -55,7 +55,7 @@ Aquest curs sobre AWS PartyRock et guia a través del món de la IA generativa s
 - [03 - Entenent la IA Generativa](./VAL/03-IAGenerativa/README.md)
 - [04 - Aplicacions d'Exemple](./VAL/04-AplicacionesEjemplo/README.md)
 - [05 - Prompt](./VAL/05-Prompt/README.md)
-- [06 - Millors Pràctiques](./VAL/06-MejoresPracticas/README.md)
+- [06 - Millors Pràctiques](./VAL/06-MillorsPractiques/README.md)
 - [07 - Guia de Hackathon](./VAL/07-Hackathon/README.md)
 - [08 - Recursos Addicionals](./VAL/08-Recursos/README.md)
 
