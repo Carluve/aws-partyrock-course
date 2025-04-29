@@ -48,7 +48,7 @@ Aquest curs sobre PartyRock et guia a través del món de la IA generativa sense
 - [07 - Guía de Hackathon](./ES/07-Hackathon/README.md)
 - [08 - Recursos Adicionales](./ES/08-Recursos/README.md)
 
-### <img src="./VAL/images/val_icon.png" width="20" alt="Valencian flag"> Mòduls en Valencià
+## <img src="./VAL/images/val_icon.png" width="20" alt="Valencian flag"> Mòduls en Valencià
 
 - [01 - Introducció](./VAL/01-Introducció/README.md)
 - [02 - Construint La Teua Primera Aplicació](./VAL/02-Aplicació/README.md)
