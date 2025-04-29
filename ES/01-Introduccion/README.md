@@ -262,5 +262,4 @@ Un panel que agrega módulos de aprendizaje, instantáneas y estadísticas de us
 
 ---
 
-
 > **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.

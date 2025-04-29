@@ -51,7 +51,7 @@ Aquest curs sobre AWS PartyRock et guia a través del món de la IA generativa s
 ### <img src="./VAL/images/val_icon.png" width="20" alt="Valencian flag"> Mòduls en Valencià
 
 - [01 - Introducció](./VAL/01-Introducció/README.md)
-- [02 - Construint La Teua Primera Aplicació](./VAL/02-PrimeraAplicacion/README.md)
+- [02 - Construint La Teua Primera Aplicació](./VAL/02-Aplicació/README.md)
 - [03 - Entenent la IA Generativa](./VAL/03-IAGenerativa/README.md)
 - [04 - Aplicacions d'Exemple](./VAL/04-AplicacionesEjemplo/README.md)
 - [05 - Prompt](./VAL/05-Prompt/README.md)
