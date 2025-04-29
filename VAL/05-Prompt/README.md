@@ -1,86 +1,82 @@
-# 05 - Ingeniería de Prompts
+# 05 - Enginyeria de Prompts
 
-¡Bienvenido al mundo de la **Ingeniería de Prompts** — la habilidad de escribir instrucciones efectivas para modelos de IA!
+Benvingut al món de l'**Enginyeria de Prompts** — l'habilitat d'escriure instruccions efectives per a models d'IA!
 
-En este módulo, aprenderás:
+En este mòdul, aprendràs:
 
-- Qué es un prompt
-- Por qué los prompts son importantes
-- La estructura de un buen prompt
-- Ejemplos de prompts (Texto, Imágenes, Música, Código)
-- Mejores prácticas
-- Errores comunes
-- Ejercicios prácticos
-
----
-
-## 🧠 ¿Qué es un Prompt?
-
-Un **prompt** es la instrucción, pregunta o solicitud que das a un modelo de IA.  
-Le dice al modelo **qué quieres** y **cómo lo quieres**.
-
-> "Un prompt es tu manera de hablar con la IA — cuanto más claro seas, mejor responderá la IA."
+- Què és un prompt
+- Per què els prompts són importants
+- L'estructura d'un bon prompt
+- Exemples de prompts (Text, Imatges, Música, Codi)
+- Millors pràctiques
+- Errors comuns
+- Exercicis pràctics
 
 ---
 
-## 🎯 ¿Por qué son importantes los Prompts?
+## 🧠 Què és un Prompt?
 
-Los buenos prompts son la **base** de excelentes resultados generados por IA.
+Un **prompt** és la instrucció, pregunta o sol·licitud que dones a un model d'IA.  
+Li diu al model **què vols** i **com ho vols**.
 
-| Prompt Débil | Prompt Fuerte |
+> "Un prompt és la teua manera de parlar amb la IA — quant més clar sigues, millor respondrà la IA."
+
+---
+
+## 🎯 Per què són importants els Prompts?
+
+Els bons prompts són la **base** d'excel·lents resultats generats per IA.
+
+| Prompt Feble | Prompt Fort |
 |:------------|:--------------|
-| "Háblame sobre perros." | "Enumera 5 datos sorprendentes sobre Pastores Alemanes en menos de 100 palabras." |
+| "Parla'm sobre gossos." | "Enumera 5 dades sorprenents sobre Pastors Alemanys en menys de 100 paraules." |
 
-✅ Los prompts específicos conducen a:
+✅ Els prompts específics conduïxen a:
 
-- Respuestas más **relevantes**
-- Resultados de mejor **calidad**
-- Menos **aleatoriedad**
+- Respostes més **rellevants**
+- Resultats de millor **qualitat**
+- Menys **aleatorietat**
 
 ---
 
-## 🏗️ La Anatomía de un Buen Prompt
+## 🏗️ L'Anatomia d'un Bon Prompt
 
-Un prompt bien construido generalmente tiene cuatro partes:
+Un prompt ben construït generalment té quatre parts:
 
-| Parte | Descripción |
+| Part | Descripció |
 |:-----|:------------|
-| **Objetivo** | ¿Qué quieres? |
-| **Formato de Retorno** | ¿Cómo debe estructurarse? |
-| **Advertencias** | ¿Qué debe evitarse? |
-| **Contexto** | Cualquier información de fondo para guiar a la IA |
+| **Objectiu** | Què vols? |
+| **Format de Retorn** | Com ha d'estructurar-se? |
+| **Advertències** | Què ha d'evitar-se? |
+| **Context** | Qualsevol informació de fons per a guiar a la IA |
 
 ---
 
-### 📊 Visual: Anatomía de un Prompt
+### 📊 Visual: Anatomia d'un Prompt
 
-![Anatomía de un Prompt](./images/anatomy-of-a-prompt.png)
+![Anatomia d'un Prompt](./images/anatomy-of-a-prompt.png)
 
-*(Imagen mostrando el desglose: Objetivo, Formato de Retorno, Advertencias, Contexto)*
+*(Imatge mostrant el desglossament: Objectiu, Format de Retorn, Advertències, Context)*
 
 ---
 
-## ✍️ Ejemplos de Prompts
+## ✍️ Exemples de Prompts
 
-### 📄 1. Prompt de Generación de Texto
+### 📄 1. Prompt de Generació de Text
 
 ```plaintext
-Tarea: Escribe una cita motivacional en menos de 20 palabras.
+Tasca: Escriu una cita motivacional en menys de 20 paraules.
 
-Formato de Retorno: Una sola frase, sin hashtags.
+Format de Retorn: Una sola frase, sense hashtags.
 
-Notas Importantes: Evita los clichés.
+Notes Importants: Evita els clixés.
 
-Contexto: La audiencia son jóvenes emprendedores lanzando startups.
-```
-
----
-
+Context: L'audiència són joves emprenedors llançant startups.
 
 
 ## 📚 Continúa el curso
 
-**[➡️ Siguiente módulo: 06 - Mejores Prácticas](../06-MejoresPracticas/README.md)**
+**[➡️ Siguiente módulo: 06 - Millors Pràctiques](../07-MillorsPràctiques/README.md)**
 
 ---
 

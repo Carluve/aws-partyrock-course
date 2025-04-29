@@ -1,145 +1,145 @@
-# 04 - Aplicaciones de Ejemplo
+# 04 - Aplicacions d'Exemple
 
-En esta sección, recorreremos un ejemplo de construcción de una aplicación completa utilizando **PartyRock**.
+En esta secció, recorrerem un exemple de construcció d'una aplicació completa utilitzant **PartyRock**.
 
-Cubriremos:
+Cobrirem:
 
-- Cómo empezar desde una aplicación en blanco.
-- Cómo definir la idea.
-- Cómo configurar los widgets de entrada/salida.
-- Cómo construir una herramienta útil para el mundo real: **Analizador de Ajuste Laboral**.
+- Com començar des d'una aplicació en blanc.
+- Com definir la idea.
+- Com configurar els widgets d'entrada/eixida.
+- Com construir una eina útil per al món real: **Analitzador d'Ajust Laboral**.
 
-¡Comencemos! 🚀
-
----
-
-## 🛠️ Iniciando una Nueva Aplicación
-
-Primero, ve a [partyrock.aws](https://partyrock.aws) y haz clic en `Generar Aplicación`.
-
-Puedes comenzar desde una idea o crear manualmente.
-
-![Pantalla de Nueva Aplicación de PartyRock](./images/partyrock-new-app-screen.png)
+Comencem! 🚀
 
 ---
 
-## 🧠 Definiendo la Idea
+## 🛠️ Iniciant una Nova Aplicació
 
-Describe brevemente lo que quieres que haga tu aplicación.
+Primer, ves a [partyrock.aws](https://partyrock.aws) i fes clic en `Generar Aplicació`.
 
-Para nuestro ejemplo, crearemos una aplicación que analice qué tan bien tu **CV (currículum)** coincide con una **Oferta de Trabajo**.
+Pots començar des d'una idea o crear manualment.
 
-Ejemplo de Prompt:
-
-> "Crea una aplicación donde los usuarios suban su CV y una descripción de trabajo. Analiza el porcentaje de coincidencia, fortalezas, debilidades y consejos de mejora."
-
-![Prompt de Construcción de Aplicación en PartyRock](./images/partyrock-build-app-prompt.png)
+![Pantalla de Nova Aplicació de PartyRock](./images/partyrock-new-app-screen.png)
 
 ---
 
-## 📋 Comenzando desde una "App en Blanco"
+## 🧠 Definint la Idea
 
-Una vez creada, tendrás una aplicación en blanco con marcadores básicos para entradas.
+Descriu breument el que vols que faça la teua aplicació.
 
-Necesitamos dos entradas principales:
-- **@CV** (Currículum o CV del usuario)
-- **@OfertaDeTrabajo** (Texto de descripción del trabajo)
+Per al nostre exemple, crearem una aplicació que analitze com de bé el teu **CV (currículum)** coincidix amb una **Oferta de Treball**.
 
-![Nueva Aplicación en Blanco en PartyRock](./images/partyrock-new-app-blank.png)
+Exemple de Prompt:
 
----
+> "Crea una aplicació on els usuaris pugen el seu CV i una descripció de treball. Analitza el percentatge de coincidència, fortaleses, debilitats i consells de millora."
 
-## ⚡ Construyendo el "Analizador de Ajuste Laboral"
-
-Renombramos nuestra aplicación a **Analizador de Ajuste Laboral** y configuramos:
-
-- **Entrada**: Subir CV (archivo o texto).
-- **Entrada**: Pegar la descripción de la Oferta de Trabajo.
-- **Salida Potenciada por IA**: Análisis de texto que muestra puntuación de coincidencia, fortalezas, debilidades y consejos.
-
-Aquí está la vista general:
-
-![Vista General Final de la Aplicación JobFit](./images/jobfit-final-app-overview.png)
+![Prompt de Construcció d'Aplicació en PartyRock](./images/partyrock-build-app-prompt.png)
 
 ---
 
-## 🧐 Ejemplo de Análisis Detallado
+## 📋 Començant des d'una "App en Blanc"
 
-Cuando el usuario proporciona un CV y una Oferta de Trabajo, la aplicación devuelve una evaluación estructurada:
+Una vegada creada, tindràs una aplicació en blanc amb marcadors bàsics per a entrades.
 
-- **Puntuación de Coincidencia** (0%–100%)
-- **Fortalezas**
-- **Debilidades**
-- **Recomendaciones**
+Necessitem dos entrades principals:
+- **@CV** (Currículum o CV de l'usuari)
+- **@OfertaDeTreball** (Text de descripció del treball)
 
-Ejemplo de salida:
-
-![Evaluación Detallada de la Aplicación JobFit](./images/jobfit-app-detailed-evaluation.png)
+![Nova Aplicació en Blanc en PartyRock](./images/partyrock-new-app-blank.png)
 
 ---
 
-## 🤖 Eligiendo el Modelo Adecuado
+## ⚡ Construint l'"Analitzador d'Ajust Laboral"
 
-Probamos diferentes modelos para optimizar los resultados.  
-¡Puedes elegir entre opciones como Claude, Llama o Amazon Nova!
+Renomenem la nostra aplicació a **Analitzador d'Ajust Laboral** i configurem:
 
-Aquí es donde configuras el modelo:
+- **Entrada**: Pujar CV (arxiu o text).
+- **Entrada**: Enganxar la descripció de l'Oferta de Treball.
+- **Eixida Potenciada per IA**: Anàlisi de text que mostra puntuació de coincidència, fortaleses, debilitats i consells.
 
-![Selección de Modelo para JobFit](./images/jobfit-app-model-selection.png)
+Ací està la vista general:
 
----
-
-## 🧩 Personalizando el Prompt
-
-Puedes refinar exactamente cómo la IA debe evaluar el CV versus la Oferta de Trabajo.
-
-El prompt define la calidad de la evaluación.
-
-Ejemplo de pantalla de edición:
-
-![Edición de Prompt para JobFit](./images/jobfit-app-prompt-edition.png)
+![Vista General Final de l'Aplicació JobFit](./images/jobfit-final-app-overview.png)
 
 ---
 
-## 🎯 Seleccionando Modelos Dinámicamente
+## 🧐 Exemple d'Anàlisi Detallat
 
-PartyRock te permite elegir el modelo que funcione mejor para tu caso, dependiendo de la complejidad de la aplicación.
+Quan l'usuari proporciona un CV i una Oferta de Treball, l'aplicació retorna una avaluació estructurada:
 
-Aquí está la vista del selector de modelo:
+- **Puntuació de Coincidència** (0%–100%)
+- **Fortaleses**
+- **Debilitats**
+- **Recomanacions**
 
-![Selector de Modelo para JobFit](./images/jobfit-app-model-picker.png)
+Exemple d'eixida:
 
----
-
-# 🚀 Notas Finales
-
-✅ Este ejemplo muestra que construir una aplicación impactante con **PartyRock** es posible en solo unos minutos.
-
-✅ El **Analizador de Ajuste Laboral** es una aplicación práctica del mundo real que:
-- Ayuda a los usuarios a adaptar sus currículos.
-- Mejora las estrategias de búsqueda de empleo.
-- Aumenta las tasas de éxito en entrevistas.
-
-✅ Puedes remixar esta idea y construir muchas variaciones:  
-- Comparar múltiples ofertas de trabajo.  
-- Sugerir mejoras al currículum automáticamente.  
-- Construir un asistente de coaching profesional.
+![Avaluació Detallada de l'Aplicació JobFit](./images/jobfit-app-detailed-evaluation.png)
 
 ---
 
-# 🎉 ¡Tu Turno!
+## 🤖 Triant el Model Adequat
 
-Ahora es tu turno de empezar a construir.  
-¡Usa PartyRock, tu imaginación y los ejemplos que has visto para crear tus propias **aplicaciones de IA generativa**!
+Provem diferents models per a optimitzar els resultats.  
+Pots triar entre opcions com Claude, Llama o Amazon Nova!
 
-> **Recuerda**: ¡Comienza simple, itera rápido y diviértete creando! 🚀
+Ací és on configures el model:
 
----
-
-## 📚 Continúa el curso
-
-**[➡️ Siguiente módulo: 05 - Ingeniería de Prompts](../05-Prompt/README.md)**
+![Selecció de Model per a JobFit](./images/jobfit-app-model-selection.png)
 
 ---
 
-> **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.
+## 🧩 Personalitzant el Prompt
+
+Pots refinar exactament com la IA ha d'avaluar el CV versus l'Oferta de Treball.
+
+El prompt definix la qualitat de l'avaluació.
+
+Exemple de pantalla d'edició:
+
+![Edició de Prompt per a JobFit](./images/jobfit-app-prompt-edition.png)
+
+---
+
+## 🎯 Seleccionant Models Dinàmicament
+
+PartyRock et permet triar el model que funcione millor per al teu cas, depenent de la complexitat de l'aplicació.
+
+Ací està la vista del selector de model:
+
+![Selector de Model per a JobFit](./images/jobfit-app-model-picker.png)
+
+---
+
+# 🚀 Notes Finals
+
+✅ Este exemple mostra que construir una aplicació impactant amb **PartyRock** és possible en només uns minuts.
+
+✅ L'**Analitzador d'Ajust Laboral** és una aplicació pràctica del món real que:
+- Ajuda als usuaris a adaptar els seus currículums.
+- Millora les estratègies de busca d'ocupació.
+- Augmenta les taxes d'èxit en entrevistes.
+
+✅ Pots remesclar esta idea i construir moltes variacions:  
+- Comparar múltiples ofertes de treball.  
+- Suggerir millores al currículum automàticament.  
+- Construir un assistent de coaching professional.
+
+---
+
+# 🎉 El Teu Torn!
+
+Ara és el teu torn de començar a construir.  
+Utilitza PartyRock, la teua imaginació i els exemples que has vist per a crear les teues pròpies **aplicacions d'IA generativa**!
+
+> **Recorda**: Comença simple, itera ràpid i divertix-te creant! 🚀
+
+---
+
+## 📚 Continua el curs
+
+**[➡️ Següent mòdul: 05 - Enginyeria de Prompts](../05-Prompt/README.md)**
+
+---
+
+> **Nota:** Este és un projecte personal i independent. No està afiliat amb AWS.    

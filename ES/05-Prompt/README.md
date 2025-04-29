@@ -78,7 +78,7 @@ Contexto: La audiencia son jóvenes emprendedores lanzando startups.
 
 ## 📚 Continúa el curso
 
-**[➡️ Siguiente módulo: 06 - Mejores Prácticas](../06-MejoresPracticas/README.md)**
+**[➡️ Siguiente módulo: 06 - Mejores Prácticas](../06-MillorsPractiques/README.md)**
 
 ---
 
