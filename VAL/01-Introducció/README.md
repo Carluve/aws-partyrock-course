@@ -108,6 +108,12 @@ Aquí puedes crear **instantáneas**, **duplicar** o **publicar** cualquier proy
 Las instantáneas son invaluables para el control de versiones:
 
 ![Panel de instantáneas](./images/04-snapshots-partyrock.png)  
+
+Puedes crear una instantánea en cualquier momento, lo que te permite volver a un estado anterior de tu aplicación.
+Esto es especialmente útil si experimentas con diferentes configuraciones o modelos y deseas regresar a una versión anterior.
+Puedes ver el historial de instantáneas y restaurar cualquier versión anterior.
+
+
 ![Instantánea activada](./images/05-partyrock-snapshots.png)
 
 ---
@@ -248,5 +254,12 @@ Un panel que agrega módulos de aprendizaje, instantáneas y estadísticas de us
 
 ### 🎉 ¡Bienvenido de nuevo a PartyRock – disfruta construyendo! 🚀
 
+---
+
+## 📚 Continúa el curso
+
+**[➡️ Siguiente módulo: 02 - Construyendo Tu Primera Aplicación](../02-PrimeraAplicacion/README.md)**
+
+---
 
 > **Nota:** Este es un proyecto personal e independiente. No está afiliado con AWS.
