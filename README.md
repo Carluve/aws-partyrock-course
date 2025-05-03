@@ -106,4 +106,4 @@ Les captures de pantalla incloses són personals i poden mostrar versions espec�
 
 ---
 
-## 📅 Last updated: April 2025
+## 📅 Last updated: May 2025
