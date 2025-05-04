@@ -40,22 +40,28 @@ Aquest curs sobre PartyRock et guia a través del món de la IA generativa sense
 ## 🇪🇸  Módulos en Castellano
 
 - [01 - Introducción](./ES/01-Introduccion/README.md)
+  - [01b - Introducción (Video)](./ES/01b-IntroduccionVideo/Readme.md)
+  - [01b - Introducción a Widgets (Video)](./ES/01b-IntroduccionWidgets/Readme.md)
 - [02 - Construyendo Tu Primera Aplicación](./ES/02-PrimeraAplicacion/README.md)
 - [03 - Entendiendo la IA Generativa](./ES/03-IAGenerativa/README.md)
 - [04 - Aplicaciones de Ejemplo](./ES/04-AplicacionesEjemplo/README.md)
 - [05 - Prompt](./ES/05-Prompt/README.md)
 - [06 - Mejores Prácticas](./ES/06-MejoresPracticas/README.md)
+  - [06b - Mejores Prácticas (Video)](./ES/06b-MejoresPracticasVideo/partyrock_buenas_practicas.md)
 - [07 - Guía de Hackathon](./ES/07-Hackathon/README.md)
 - [08 - Recursos Adicionales](./ES/08-Recursos/README.md)
 
 ## <img src="./VAL/images/val_icon.png" width="20" alt="Valencian flag"> Mòduls en Valencià
 
 - [01 - Introducció](./VAL/01-Introducció/README.md)
+  - [01b - Introducció (Vídeo)](./VAL/01b-IntroduccionVideo/Readme.md)
+  - [01b - Introducció a Widgets (Vídeo)](./VAL/01b-IntroduccionWidgets/Readme.md)
 - [02 - Construint La Teua Primera Aplicació](./VAL/02-Aplicació/README.md)
 - [03 - Entenent la IA Generativa](./VAL/03-IAGenerativa/README.md)
 - [04 - Aplicacions d'Exemple](./VAL/04-AplicacionesEjemplo/README.md)
 - [05 - Prompt](./VAL/05-Prompt/README.md)
 - [06 - Millors Pràctiques](./VAL/06-MillorsPractiques/README.md)
+  - [06b - Millors Pràctiques (Vídeo)](./VAL/06b-MejoresPracticasVideo/partyrock_buenas_practicas.md)
 - [07 - Guia de Hackathon](./VAL/07-Hackathon/README.md)
 - [08 - Recursos Addicionals](./VAL/08-Recursos/README.md)
 
