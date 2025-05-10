@@ -28,6 +28,7 @@ Aquest curs sobre PartyRock et guia a través del món de la IA generativa sense
 
 ## 🇬🇧  Modules
 
+- [00 - Understanding Transformers](./EN/00-Transformers/README.md)
 - [01 - Introduction](./EN/01-Introduction/README.md)
 - [02 - Building Your First App](./EN/02-FirstApp/README.md)
 - [03 - Understanding Generative AI](./EN/03-GenerativeAI/README.md)
@@ -39,6 +40,7 @@ Aquest curs sobre PartyRock et guia a través del món de la IA generativa sense
 
 ## 🇪🇸  Módulos en Castellano
 
+- [00 - Entendiendo los Transformers](./ES/00-Transformers/README.md)
 - [01 - Introducción](./ES/01-Introduccion/README.md)
   - [01b - Introducción (Video)](./ES/01b-IntroduccionVideo/Readme.md)
   - [01b - Introducción a Widgets (Video)](./ES/01b-IntroduccionWidgets/Readme.md)
@@ -53,6 +55,7 @@ Aquest curs sobre PartyRock et guia a través del món de la IA generativa sense
 
 ## <img src="./VAL/images/val_icon.png" width="20" alt="Valencian flag"> Mòduls en Valencià
 
+- [00 - Entenent els Transformers](./VAL/00-Transformers/README.md)
 - [01 - Introducció](./VAL/01-Introducció/README.md)
   - [01b - Introducció (Vídeo)](./VAL/01b-IntroduccionVideo/Readme.md)
   - [01b - Introducció a Widgets (Vídeo)](./VAL/01b-IntroduccionWidgets/Readme.md)
@@ -108,7 +111,17 @@ Las capturas de pantalla incluidas son personales y pueden mostrar versiones esp
 
 **Aquest és un projecte personal independent i no està afiliat amb AWS.**
 
-Les captures de pantalla incloses són personals i poden mostrar versions específiques de la interfície que podrien canviar amb el temps. Algunes parts del contingut han estat creades o millorades utilitzant IA generativa, per la qual cosa poden contenir imprecisions o errors. Aquest curs és principalment per a fins educatius.
+Les captures de pantalla incloïdes són personals i poden mostrar versions específiques de la interfície que podrien canviar amb el temps. Algunes parts del contingut han estat creades o millorades utilizando IA generativa, per la qual cosa poden contenir imprecisions o errors. Aquest curs és principalment per a fins educatius.
+
+---
+
+## 📄 License / Licencia / Llicència
+
+This project is licensed under the Creative Commons Attribution 4.0 International License - see the [LICENSE](LICENSE) file for details.
+
+Este proyecto está licenciado bajo la Licencia Creative Commons Atribución 4.0 Internacional - ver el archivo [LICENSE](LICENSE) para más detalles.
+
+Aquest projecte està llicenciat sota la Llicència Creative Commons Atribució 4.0 Internacional - veure l'arxiu [LICENSE](LICENSE) per a més detalls.
 
 ---
 
